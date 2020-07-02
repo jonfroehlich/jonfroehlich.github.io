@@ -1,0 +1,54 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$link-color: #6956a2;
+
+/* system typefaces */
+$serif      : "PT Serif", Georgia, Times, serif;
+$sans-serif : "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace  : Monaco, Consolas, "Lucida Console", monospace;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+html {
+    font-size: 12px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 14px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 16px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 18px; // originally 22px
+    }
+}
+
+/***** SIDEBAR ******/
+.sidebar {
+    @include breakpoint($large) {
+      opacity: 1;
+      -webkit-transition: none;
+      transition: none;
+    }
+}
+
+.author__avatar {
+
+  img {
+    max-width: 150px;
+  }
+}
+
+// $serif              : "PT Serif", Georgia, Times, serif;
+// $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+// $global-font-family : $serif;
+// $header-font-family : $sans-serif-narrow;

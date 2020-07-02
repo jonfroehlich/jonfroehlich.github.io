@@ -1,0 +1,8 @@
+# https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+main:
+  - title: "Bio"
+    url: bio
+  - title: "Publications"
+    url: https://makeabilitylab.cs.washington.edu/publications/
+  - title: "Makeability Lab"
+    url: https://makeabilitylab.cs.washington.edu/
