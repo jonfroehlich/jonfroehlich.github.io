@@ -1,10 +1,11 @@
-# mmtest2
-Another playground for minimal mistakes jekyll theme
+# Jon Froehlich's Academic Website
+I made this in Jekyll using the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme.
 
 # Minimal Mistakes
-
-- The [academic fork of Minimal Mistakes](https://github.com/academicpages/academicpages.github.io)
-- [Minimal Mistakes GitHub Pages starter](https://github.com/mmistakes/mm-github-pages-starter)
+Some useful links
+- The [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme
+- The [academic fork of Minimal Mistakes](https://github.com/academicpages/academicpages.github.io), which I did not use
+- [Minimal Mistakes GitHub Pages starter](https://github.com/mmistakes/mm-github-pages-starter), which I perused and played with but did not comprehensively use.
 
 ## Installation
 After following the Windows installation guide below for Jekyll, I did the following:
@@ -134,10 +135,12 @@ PS C:\git\mmtest2>
 
 **Forth**, I create `_data/navigation.yml` as instructed [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-fresh)
 
-**Fifth**, I tried running the site by `bundle exec jekyll serve`
+**Fifth**, I tried running the site by `bundle exec jekyll serve` and it appeard to work. Yay!
 
 # Jekyll Installation (Windows)
-**First**, although this documentation is old, I started with this [Run Jekyll on Windows](https://jekyll-windows.juthilo.com/) guide. The first step states to Install Ruby via the [rubyinstaller.org](http://rubyinstaller.org/downloads/) website and then to install the Ruby Devkit; however, the most recent versions of Ruby Installer for Windows also allow you to install the Devkit. So, that's what I did.
+I have tried to get Jekyll installed in Windows in the past and failed. I gave it another run the other day and it worked! Here are my notes:
+
+**First**, although this documentation is old, I started with this [Run Jekyll on Windows](https://jekyll-windows.juthilo.com/) guide. The first step states to Install Ruby via the [rubyinstaller.org](http://rubyinstaller.org/downloads/) website and then to install the Ruby Devkit; however, the most recent versions of Ruby Installer for Windows also allows you to install the Devkit. So, that's what I did.
  
 **Second**, I then opened `Windows Powershell` and typed `gem install jekyll`:
 
