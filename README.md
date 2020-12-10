@@ -7,6 +7,35 @@ Some useful links
 - The [academic fork of Minimal Mistakes](https://github.com/academicpages/academicpages.github.io), which I did not use
 - [Minimal Mistakes GitHub Pages starter](https://github.com/mmistakes/mm-github-pages-starter), which I perused and played with but did not comprehensively use.
 
+## Running the website
+Assuming you have the prerequisite libraries and software infrastructure (e.g., Jekyll), you can open terminal in VSCode and type:
+
+```
+> bundle exec jekyll serve 
+```
+
+Which should result in the server starting at http://localhost:4000. See:
+```
+PS C:\Git\academicwebsite> bundle exec jekyll serve                        
+Configuration file: C:/Git/academicwebsite/_config.yml
+            Source: C:/Git/academicwebsite
+       Destination: C:/Git/academicwebsite/_site       
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+      Remote Theme: Using theme mmistakes/minimal-mistakes
+       Jekyll Feed: Generating feed for posts
+   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+                    done in 17.169 seconds.
+ Auto-regeneration: enabled for 'C:/Git/academicwebsite'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2020-12-10 06:16:51
+                    README.md
+      Remote Theme: Using theme mmistakes/minimal-mistakes
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.4005941 seconds.
+```
+
 ## Installation
 After following the Windows installation guide below for Jekyll, I did the following:
 
