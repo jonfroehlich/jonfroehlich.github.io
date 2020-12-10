@@ -1,0 +1,44 @@
+<div class="page__footer-follow">
+    <!-- Some webistes that talk about tweaking the footer in minimal mistakes:
+         - https://nithiya.gitlab.io/development/pages-tweaks/#footer
+    -->
+    <ul class="social-icons">
+        {% if site.data.ui-text[site.locale].follow_label %}
+        <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+        {% endif %}
+
+        {% if site.footer.links %}
+        {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
+                    class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+
+        <li><a
+                href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i
+                    class="fas fa-fw fa-rss-square" aria-hidden="true"></i>
+                {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    </ul>
+    <div class="footer-logos">
+
+        <a href="https://makeabilitylab.cs.washington.edu">
+            <img src="/assets/images/Logo_MakeabilityLab.png" alt="The Makeability Lab logo which is a large geometric M with an embedded L"/>
+        </a>
+        <a href="https://dub.washington.edu">
+            <img src="/assets/images/Logo_DUB_WithText.png" style="max-height: 50px;" alt="The DUB logo, which is a stylized D U B with Design Use Build text under it"/>
+        </a>
+        <a href="https://create.washington.edu">
+            <img src="/assets/images/Logo_CREATE_CloseCrop.png" alt="The CREATE logo. CREATE stands for the Center for Research and Education on Accessible Technology and Experiences. The CREATE logo has a person holding a lightbulb/>
+        </a>
+        <a href="https://cs.washington.edu">
+            <img src="/assets/images/Logo_AllenSchool_Black.png" alt="The Allen School CS logo, which is a larger UW W with Paul G. Allen School of Computer Science and Engineering text."/>
+        </a>
+    </div>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.
+    {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com"
+        rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/"
+        rel="nofollow">Minimal Mistakes</a>.</div>
