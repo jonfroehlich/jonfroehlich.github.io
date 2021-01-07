@@ -162,7 +162,7 @@ Use `bundle info [gemname]` to see where a bundled gem is installed.
 PS C:\git\mmtest2>
 ```
 
-**Forth**, I create `_data/navigation.yml` as instructed [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-fresh)
+**Forth**, I created `_data/navigation.yml` as instructed [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-fresh)
 
 **Fifth**, I tried running the site by `bundle exec jekyll serve` and it appeard to work. Yay!
 
