@@ -164,7 +164,7 @@ PS C:\git\mmtest2>
 
 **Forth**, I create `_data/navigation.yml` as instructed [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-fresh)
 
-**Fifth**, I tried running the site by `bundle exec jekyll serve` and it appeard to work. Yay!
+**Fifth**, I tried running the site by `bundle exec jekyll serve` and it appeared to work. Yay!
 
 # Jekyll Installation (Windows)
 I have tried to get Jekyll installed in Windows in the past and failed. I gave it another run the other day and it worked! Here are my notes:
@@ -222,7 +222,7 @@ This worked. Yay!
 But I still couldn't install github pages, boo!
 
 ```
- gem install github-pages
+gem install github-pages
 ERROR:  Error installing github-pages:
         The last version of nokogiri (>= 1.10.4, < 2.0) to support your Ruby & RubyGems was 1.10.9. Try installing it with `gem install nokogiri -v 1.10.9` and then running the current command again
         nokogiri requires Ruby version >= 2.3, < 2.7.dev. The current ruby version is 2.7.0.0.
