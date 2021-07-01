@@ -14,6 +14,6 @@ In the Allen School, I teach CS courses that explore the materiality of computin
 
 The [Makeability Lab](https://makeabilitylab.cs.washington.edu) is grateful for funding support from the NSF, the Department of Defense's Clinical and Rehabilitative Medicine Research Program, the [PacTrans Consortium](http://depts.washington.edu/pactrans/),  [UW CREATE](https://create.uw.edu/), [UW's Global Innovation Fund](https://www.washington.edu/globalaffairs/gif/), and [the UW Reality Lab](https://realitylab.uw.edu/) as well as corporate sponsors, including: Google Faculty Research Awards, a 3M Faculty Award, and research funding from Facebook, Nokia, and Microsoft. We are also grateful for our PhD student funding awards, including two Google PhD Fellowships, an IBM Fellowship, and a [Microsoft Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/?OCID=msr_program_dissgrant_tw#!grant-recipients).
 
-We are honored and humbled that our work has been recognized with fifteen Best Paper and Honorable Mention Awards, including five Best Papers at CHI, two Best Papers at ASSETS, and a 10-Year Impact Award at UbiComp.
+We are honored and humbled that our work has been recognized with sixteen Best Paper and Honorable Mention Awards, including five Best Papers at CHI, two Best Papers at ASSETS, and a 10-Year Impact Award at UbiComp.
 
 You can learn more about our research by following the Makeability Lab twitter account [here](http://twitter.com/makeabilitylab) or my personal Twitter [here](https://twitter.com/jonfroehlich).
