@@ -13,16 +13,16 @@ At UW, I direct the [Makeability Lab](http://makeabilitylab.io/) within the Alle
 For 2021-2022, I will be the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults. 
 
 ### PhD Students
-One of the great privileges of being a professor is working with students. Below, current PhD students:
+One of the great privileges of being a professor is working with students. I have the pleasure of working with the following PhD students:
 
-* [Manaswi Saha](https://homes.cs.washington.edu/~manaswi/) who works on interactive tools to support advocacy, urban planning, and policy making for urban accessibility
-* [Liang He](http://www.lianghe.me/) who works at the intersection of HCI + digital fabrication
-* [Dhruv Jain](https://homes.cs.washington.edu/~djain/) who works on sound sensing and access tools for people who are Deaf or hard of hearing
-* [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/) who works on the accessibility of new media and games
-* [Katherine Juarez](https://makeabilitylab.cs.washington.edu/member/katherinejuarez/) who is working on studying how urban accessibility changes over time
-* [Lisa Orii](https://lisaorii.github.io/) who is working on urban accessibility + social equity issues
-* [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/) who is working on creativity support and design tools
-* [Daniel Campos Zamora](https://www.danielcamposzamora.com/) who is working on new ways to navigate indoor and outdoor spaces
+* [Manaswi Saha](https://homes.cs.washington.edu/~manaswi/), interactive tools to support advocacy, urban planning, and policy making for urban accessibility
+* [Liang He](http://www.lianghe.me/), HCI + digital fabrication
+* [Dhruv Jain](https://homes.cs.washington.edu/~djain/), sound sensing and access tools for people who are Deaf or hard of hearing
+* [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
+* [Katherine Juarez](https://makeabilitylab.cs.washington.edu/member/katherinejuarez/), tools to study the evolution and impact of urban accessibility over time
+* [Lisa Orii](https://lisaorii.github.io/), examining urban accessibility + social equity issues
+* [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/),creativity support and design tools
+* [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping new ways to navigate indoor and outdoor spaces
 
 In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/). 
 
