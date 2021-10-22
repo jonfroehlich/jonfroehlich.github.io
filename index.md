@@ -21,7 +21,7 @@ One of the great privileges of being a professor is working with students. I hav
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
 * [Katherine Juarez](https://makeabilitylab.cs.washington.edu/member/katherinejuarez/), tools to study the evolution and impact of urban accessibility over time
 * [Lisa Orii](https://lisaorii.github.io/), examining urban accessibility + social equity issues
-* [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/),creativity support and design tools
+* [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping new ways to navigate indoor and outdoor spaces
 
 In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/). 
