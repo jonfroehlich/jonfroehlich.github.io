@@ -68,7 +68,10 @@ author:
   links:
     - label: "Makeability Lab"
       icon: "fas fa-fw fa-link"
-      url: "https://makeabilitylab.io"
+      url: "https://makeabilitylab.cs.washington.edu/"
+    - label: "Lab Handbook"
+      icon: "fas fa-fw fa-link"
+      url: "https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jonfroehlich"
