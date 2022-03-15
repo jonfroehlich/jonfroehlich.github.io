@@ -19,8 +19,6 @@ One of the great privileges of being a professor is working with students. I am 
 * [Liang He](http://www.lianghe.me/), HCI + digital fabrication
 * [Dhruv Jain](https://homes.cs.washington.edu/~djain/), sound sensing and access tools for people who are Deaf or hard of hearing
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
-* [Katherine Juarez](https://makeabilitylab.cs.washington.edu/member/katherinejuarez/), tools to study the evolution and impact of urban accessibility over time
-* [Lisa Orii](https://lisaorii.github.io/), examining urban accessibility + social equity issues
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
 
