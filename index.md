@@ -12,8 +12,11 @@ At UW, I direct the [Makeability Lab](http://makeabilitylab.io/) within the Alle
 
 For 2021-2022, I will be the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults. 
 
+## Students
+One of the great privileges of being a professor is working with students. In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/). 
+
 ### PhD Students
-One of the great privileges of being a professor is working with students. I am currently advising:
+I am currently advising:
 
 * [Manaswi Saha](https://homes.cs.washington.edu/~manaswi/), interactive tools to support advocacy, urban planning, and policy making for urban accessibility
 * [Liang He](http://www.lianghe.me/), HCI + digital fabrication
@@ -21,16 +24,24 @@ One of the great privileges of being a professor is working with students. I am 
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
+* [Chu Li](https://www.chu-li.me/), starts Fall'22!
+* [Jaewook Lee](https://jaewook-lee.com/), starts Fall'22!
 
-In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/). 
+I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin.com/in/steven-m-goodman/) and [Emma McDonnell](https://www.linkedin.com/in/ejmcdonnell/) on sound recognition and captioning tools to support people who are deaf or hard of hearing with Co-PI [Professor Leah Findlater](https://www.hcde.washington.edu/findlater) ([NSF #1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false))
 
-### Teaching
+#### PhD Alumni
+* [Seokbin Kang](http://www.livehighkang.com/), Augmented Reality Systems and User Interaction Techniques for Stem Learning, UMD, 2020. Now at Zoom
+* [Matt Mauriello](https://www.eecis.udel.edu/~mlm/), [Designing and Evaluating Next-Generation Thermographic Systems to Support Residential Energy Audits](https://makeabilitylab.cs.washington.edu/media/publications/Mauriello_DesigningAndEvaluatingNextGenerationThermographicSystemsToSupportResidentialEnergyAudits_2018.pdf), UMD, 2018. Postdoc at Stanford. Now an Assistant Professor at University of Delaware.
+* [Lee Stearns](http://www.leestearns.com/), [HandSight: A Touch-Based Wearable System to Increase Information Accessibility for People with Visual Impairments](https://makeabilitylab.cs.washington.edu/media/publications/Stearns_HandsightATouchBasedWearableSystemToIncreaseInformationAccessibilityForPeopleWithVisualImpairments_2018.pdf), UMD, 2018. Co-advised with Rama Chellappa. Now at Johns Hopkins Applied Physics Laboratory.
+* [Kotaro Hara](https://kotarohara.com/), [Scalable Methods to Collect and Visualize Sidewalk Accessibility Data for People with Mobility Impairments](https://makeabilitylab.cs.washington.edu/media/publications/Hara_ScalableMethodsToCollectAndVisualizeSidewalkAccessibilityDataForPeopleWithMobilityImpairments_2016.pdf), UMD, 2016. Now an Assistant Professor at Singapore Management University.
+
+## Teaching
 In the Allen School, I teach CS courses that explore the materiality of computing and the ever-changing relationships between humans, bits, and atoms such as CSE490 _Physical Computing_, CSE590 _Ubiquitous Computing_, and CSE599 _Prototyping Interactive Systems_. I also co-teach HCID521 _Prototyping Studio_ in the [Master of Human-Computer Interaction Design (MHCI+D)](https://mhcid.washington.edu/) program. Topics across these courses include prototyping with electronics, microcontrollers, code, 3D printers, and lo-fi craft material. See our [teaching website](https://makeabilitylab.github.io/physcomp/) for more details.
 
-### Acknowledgments and funding
+## Acknowledgments and funding
 The [Makeability Lab](https://makeabilitylab.cs.washington.edu) is grateful for funding support from the NSF, the Department of Defense's Clinical and Rehabilitative Medicine Research Program, the [PacTrans Consortium](http://depts.washington.edu/pactrans/),  [UW CREATE](https://create.uw.edu/), [UW's Global Innovation Fund](https://www.washington.edu/globalaffairs/gif/), and [the UW Reality Lab](https://realitylab.uw.edu/) as well as corporate sponsors, including: Google Faculty Research Awards, a 3M Faculty Award, and research funding from Facebook, Nokia, and Microsoft. We are also grateful for our PhD student funding awards, including two Google PhD Fellowships, an IBM Fellowship, a Google-CMD-IT LEAP Alliance Fellowship, and a [Microsoft Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/?OCID=msr_program_dissgrant_tw#!grant-recipients).
 
 We are honored and humbled that our work has been recognized with sixteen Best Paper and Honorable Mention Awards, including five Best Papers at CHI, two Best Papers at ASSETS, and a 10-Year Impact Award at UbiComp.
 
-### Learn more
+## Learn more
 You can learn more about our research by following the [Makeability Lab Twitter](http://twitter.com/makeabilitylab) or [my personal Twitter](https://twitter.com/jonfroehlich).
