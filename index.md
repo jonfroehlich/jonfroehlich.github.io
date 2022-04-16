@@ -16,11 +16,9 @@ For 2021-2022, I will be the General Chair for [ASSETS'22](https://assets22.siga
 One of the great privileges of being a professor is working with students. In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/). 
 
 ### PhD Students
-I am currently advising:
-
 * [Manaswi Saha](https://homes.cs.washington.edu/~manaswi/), interactive tools to support advocacy, urban planning, and policy making for urban accessibility
 * [Liang He](http://www.lianghe.me/), HCI + digital fabrication
-* [Dhruv Jain](https://homes.cs.washington.edu/~djain/), sound sensing and access tools for people who are Deaf or hard of hearing
+* [Dhruv Jain](https://homes.cs.washington.edu/~djain/), sound sensing and access tools for people who are Deaf or hard of hearing. Co-advising with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater)
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
@@ -30,7 +28,7 @@ I am currently advising:
 I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin.com/in/steven-m-goodman/) and [Emma McDonnell](https://www.linkedin.com/in/ejmcdonnell/) on sound recognition and captioning tools to support people who are deaf or hard of hearing with Co-PI [Professor Leah Findlater](https://www.hcde.washington.edu/findlater) ([NSF #1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false))
 
 #### PhD Alumni
-* [Seokbin Kang](http://www.livehighkang.com/), Augmented Reality Systems and User Interaction Techniques for Stem Learning, UMD, 2020. Now at Zoom
+* [Seokbin Kang](http://www.livehighkang.com/), [Augmented Reality Systems and User Interaction Techniques for Stem Learning](https://makeabilitylab.cs.washington.edu/media/publications/Kang_AugmentedRealitySystemsAndUserInteractionTechniquesForStemLearning_UMDCSPHDDISSERTATION2020.pdf), UMD, 2020. Now at Zoom.
 * [Matt Mauriello](https://www.eecis.udel.edu/~mlm/), [Designing and Evaluating Next-Generation Thermographic Systems to Support Residential Energy Audits](https://makeabilitylab.cs.washington.edu/media/publications/Mauriello_DesigningAndEvaluatingNextGenerationThermographicSystemsToSupportResidentialEnergyAudits_2018.pdf), UMD, 2018. Postdoc at Stanford. Now an Assistant Professor at University of Delaware.
 * [Lee Stearns](http://www.leestearns.com/), [HandSight: A Touch-Based Wearable System to Increase Information Accessibility for People with Visual Impairments](https://makeabilitylab.cs.washington.edu/media/publications/Stearns_HandsightATouchBasedWearableSystemToIncreaseInformationAccessibilityForPeopleWithVisualImpairments_2018.pdf), UMD, 2018. Co-advised with Rama Chellappa. Now at Johns Hopkins Applied Physics Laboratory.
 * [Kotaro Hara](https://kotarohara.com/), [Scalable Methods to Collect and Visualize Sidewalk Accessibility Data for People with Mobility Impairments](https://makeabilitylab.cs.washington.edu/media/publications/Hara_ScalableMethodsToCollectAndVisualizeSidewalkAccessibilityDataForPeopleWithMobilityImpairments_2016.pdf), UMD, 2016. Now an Assistant Professor at Singapore Management University.
