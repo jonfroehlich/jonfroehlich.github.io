@@ -18,7 +18,7 @@ One of the great privileges of being a professor is working with students. In th
 ### PhD Students
 * [Manaswi Saha](https://homes.cs.washington.edu/~manaswi/), interactive tools to support advocacy, urban planning, and policy making for urban accessibility
 * [Liang He](http://www.lianghe.me/), HCI + digital fabrication
-* [Dhruv Jain](https://homes.cs.washington.edu/~djain/), sound sensing and access tools for people who are Deaf or hard of hearing. Co-advising with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater)
+* [Dhruv Jain](https://homes.cs.washington.edu/~djain/), sound sensing and access tools for people who are Deaf or hard of hearing. Co-advised with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater)
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
