@@ -17,7 +17,6 @@ One of the great privileges of being a professor is working with students. In th
 
 ### Makeability Lab PhD Students
 * [Manaswi Saha](https://homes.cs.washington.edu/~manaswi/), interactive tools to support advocacy, urban planning, and policy making for urban accessibility
-* [Dhruv Jain](https://homes.cs.washington.edu/~djain/), sound sensing and access tools for people who are Deaf or hard of hearing. Co-advised with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater)
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
@@ -30,6 +29,10 @@ I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin
 **[Liang He](https://www.lianghe.me/)**, University of Washington, 2022<br/>
 Dissertation: *Fabricating Kinetic Objects with 3D Printable Spring-Based Mechanisms for Interactivity*.
 Now an Assistant Professor at Purdue University.
+
+**[Dhruv Jain](https://homes.cs.washington.edu/~djain/)**, University of Washington, 2022<br/>
+Dissertation: *Sound Sensing and Feedback Techniques for Deaf and Hard and Hearing People*.
+Co-advised with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater). Now an Assistant Professor at the University of Michigan.
 
 **[Seokbin Kang](http://www.livehighkang.com/)**, University of Maryland, 2020<br/>
 Dissertation: [*Augmented Reality Systems and User Interaction Techniques for STEM Learning*](https://makeabilitylab.cs.washington.edu/media/publications/Kang_AugmentedRealitySystemsAndUserInteractionTechniquesForStemLearning_UMDCSPHDDISSERTATION2020.pdf).
