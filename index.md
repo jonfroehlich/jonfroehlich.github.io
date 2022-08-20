@@ -16,7 +16,7 @@ For 2021-2022, I will be the General Chair for [ASSETS'22](https://assets22.siga
 One of the great privileges of being a professor is working with students. In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/). 
 
 ### Makeability Lab PhD Students
-* [Manaswi Saha](https://homes.cs.washington.edu/~manaswi/), interactive tools to support advocacy, urban planning, and policy making for urban accessibility
+
 * [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
@@ -26,26 +26,30 @@ One of the great privileges of being a professor is working with students. In th
 I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin.com/in/steven-m-goodman/) and [Emma McDonnell](https://www.linkedin.com/in/ejmcdonnell/) on sound recognition and captioning tools to support people who are deaf or hard of hearing with Co-PI [Professor Leah Findlater](https://www.hcde.washington.edu/findlater) ([NSF #1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false))
 
 #### Makeability Lab PhD Alumni
+**[Manaswi Saha](https://homes.cs.washington.edu/~manaswi/)**, University of Washington, 2022<br/>
+Dissertation: *Designing Interactive Data-driven Tools for Understanding Urban Accessibility at Scale*<br/>
+Now at Accenture Labs
+
 **[Liang He](https://www.lianghe.me/)**, University of Washington, 2022<br/>
-Dissertation: *Fabricating Kinetic Objects with 3D Printable Spring-Based Mechanisms for Interactivity*.
+Dissertation: *Fabricating Kinetic Objects with 3D Printable Spring-Based Mechanisms for Interactivity*.<br/>
 Now an Assistant Professor at Purdue University.
 
 **[Dhruv Jain](https://homes.cs.washington.edu/~djain/)**, University of Washington, 2022<br/>
 Dissertation: *Sound Sensing and Feedback Techniques for Deaf and Hard and Hearing People*.
-Co-advised with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater). Now an Assistant Professor at the University of Michigan.
+Co-advised with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater).<br/> Now an Assistant Professor at the University of Michigan.
 
 **[Seokbin Kang](http://www.livehighkang.com/)**, University of Maryland, 2020<br/>
-Dissertation: [*Augmented Reality Systems and User Interaction Techniques for STEM Learning*](https://makeabilitylab.cs.washington.edu/media/publications/Kang_AugmentedRealitySystemsAndUserInteractionTechniquesForStemLearning_UMDCSPHDDISSERTATION2020.pdf).
+Dissertation: [*Augmented Reality Systems and User Interaction Techniques for STEM Learning*](https://makeabilitylab.cs.washington.edu/media/publications/Kang_AugmentedRealitySystemsAndUserInteractionTechniquesForStemLearning_UMDCSPHDDISSERTATION2020.pdf).<br/>
 Now at Zoom.
 
 **[Matt Mauriello](https://www.eecis.udel.edu/~mlm/)**, University of Maryland, 2018<br/>
-Dissertation: [*Designing and Evaluating Next-Generation Thermographic Systems to Support Residential Energy Audits*](https://makeabilitylab.cs.washington.edu/media/publications/Mauriello_DesigningAndEvaluatingNextGenerationThermographicSystemsToSupportResidentialEnergyAudits_2018.pdf). Postdoc at Stanford. Now an Assistant Professor at University of Delaware.
+Dissertation: [*Designing and Evaluating Next-Generation Thermographic Systems to Support Residential Energy Audits*](https://makeabilitylab.cs.washington.edu/media/publications/Mauriello_DesigningAndEvaluatingNextGenerationThermographicSystemsToSupportResidentialEnergyAudits_2018.pdf).<br/> Postdoc at Stanford. Now an Assistant Professor at University of Delaware.
 
 **[Lee Stearns](http://www.leestearns.com/)**, University of Maryland, 2018<br/>
-Dissertation: [*HandSight: A Touch-Based Wearable System to Increase Information Accessibility for People with Visual Impairments*](https://makeabilitylab.cs.washington.edu/media/publications/Stearns_HandsightATouchBasedWearableSystemToIncreaseInformationAccessibilityForPeopleWithVisualImpairments_2018.pdf). Co-advised with Rama Chellappa. Now at Johns Hopkins Applied Physics Laboratory.
+Dissertation: [*HandSight: A Touch-Based Wearable System to Increase Information Accessibility for People with Visual Impairments*](https://makeabilitylab.cs.washington.edu/media/publications/Stearns_HandsightATouchBasedWearableSystemToIncreaseInformationAccessibilityForPeopleWithVisualImpairments_2018.pdf). Co-advised with Rama Chellappa.<br/> Now at Johns Hopkins Applied Physics Laboratory.
 
 **[Kotaro Hara](https://kotarohara.com/)**, University of Maryland, 2016<br/> 
-Dissertation: [Scalable Methods to Collect and Visualize Sidewalk Accessibility Data for People with Mobility Impairments](https://makeabilitylab.cs.washington.edu/media/publications/Hara_ScalableMethodsToCollectAndVisualizeSidewalkAccessibilityDataForPeopleWithMobilityImpairments_2016.pdf). Postdoc at CMU. Now an Assistant Professor at Singapore Management University.
+Dissertation: [Scalable Methods to Collect and Visualize Sidewalk Accessibility Data for People with Mobility Impairments](https://makeabilitylab.cs.washington.edu/media/publications/Hara_ScalableMethodsToCollectAndVisualizeSidewalkAccessibilityDataForPeopleWithMobilityImpairments_2016.pdf).<br/> Postdoc at CMU. Now an Assistant Professor at Singapore Management University.
 
 ## Teaching
 In the Allen School, I teach CS courses that explore the materiality of computing and the ever-changing relationships between humans, bits, and atoms such as CSE490 _Physical Computing_, CSE590 _Ubiquitous Computing_, and CSE599 _Prototyping Interactive Systems_. I also co-teach HCID521 _Prototyping Studio_ in the [Master of Human-Computer Interaction Design (MHCI+D)](https://mhcid.washington.edu/) program. Topics across these courses include prototyping with electronics, microcontrollers, code, 3D printers, and lo-fi craft material. See our [teaching website](https://makeabilitylab.github.io/physcomp/) for more details.
