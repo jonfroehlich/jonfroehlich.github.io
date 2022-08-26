@@ -17,7 +17,6 @@ One of the great privileges of being a professor is working with students. In th
 
 ### Makeability Lab PhD Students
 
-* [Jesse Martinez](https://homes.cs.washington.edu/~jessejm/), accessibility tools for new media and games
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
 * [Chu Li](https://www.chu-li.me/), starts Fall'22!
