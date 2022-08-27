@@ -8,6 +8,7 @@ Some useful links
 - [Minimal Mistakes GitHub Pages starter](https://github.com/mmistakes/mm-github-pages-starter), which I perused and played with but did not comprehensively use.
 
 ## Running the website
+
 Assuming you have the prerequisite libraries and software infrastructure (e.g., Jekyll), you can open terminal in VSCode and type:
 
 ```
@@ -36,8 +37,88 @@ Configuration file: C:/Git/academicwebsite/_config.yml
                     ...done in 3.4005941 seconds.
 ```
 
-## Installation
-After following the Windows installation guide below for Jekyll, I did the following:
+# Jekyll Installation 
+
+## Mac Installation
+
+According to the official [Jekyll docs,](https://jekyllrb.com/docs/installation/macos/) you should not use the pre-installed version of Ruby on MacOS for Jekyll dev:
+
+> To install Jekyll on macOS, you need a proper Ruby development environment. While macOS comes preinstalled with Ruby, we don’t recommend using that version to install Jekyll. This [external article](https://www.moncefbelyamani.com/why-you-shouldn-t-use-the-system-ruby-to-install-gems-on-a-mac/) goes over the various reasons why you shouldn’t use the system Ruby.
+
+So, instead, I followed the official [Jekyll MacOS docs](https://jekyllrb.com/docs/installation/macos/):
+
+1. Install Homebrew
+2. Install chruby and the latest Ruby with ruby-installPermalink
+3. Install jekyll
+
+
+## Windows Installation
+I have tried to get Jekyll installed in Windows in the past and failed. I gave it another run the other day and it worked! Here are my notes:
+
+**First**, although this documentation is old, I started with this [Run Jekyll on Windows](https://jekyll-windows.juthilo.com/) guide. The first step states to Install Ruby via the [rubyinstaller.org](http://rubyinstaller.org/downloads/) website and then to install the Ruby Devkit; however, the most recent versions of Ruby Installer for Windows also allows you to install the Devkit. So, that's what I did.
+ 
+**Second**, I then opened `Windows Powershell` and typed `gem install jekyll`:
+
+```
+gem install jekyll
+Fetching jekyll-4.1.1.gem
+Fetching mercenary-0.4.0.gem
+Successfully installed mercenary-0.4.0
+Successfully installed jekyll-4.1.1
+Parsing documentation for mercenary-0.4.0
+Installing ri documentation for mercenary-0.4.0
+Parsing documentation for jekyll-4.1.1
+Installing ri documentation for jekyll-4.1.1
+Done installing documentation for mercenary, jekyll after 16 seconds
+2 gems installed
+```
+
+**Third**, I then tried to install `github-pages` via: `gem install github-pages` but failed with:
+
+```
+ERROR:  Error installing github-pages:
+        The last version of nokogiri (>= 1.10.4, < 2.0) to support your Ruby & RubyGems was 1.10.9. Try installing it with `gem install nokogiri -v 1.10.9` and then running the current command again
+        nokogiri requires Ruby version >= 2.3, < 2.7.dev. The current ruby version is 2.7.0.0.
+```
+
+So, I tried:
+
+```
+gem install nokogiri -v 1.10.9
+ERROR:  Error installing nokogiri:
+        The last version of nokogiri (= 1.10.9) to support your Ruby & RubyGems was 1.10.9. Try installing it with `gem install nokogiri -v 1.10.9`
+        nokogiri requires Ruby version >= 2.3, < 2.7.dev. The current ruby version is 2.7.0.0.
+```
+
+But this also failed. And given that I have no idea how hard it would be to downgrade Ruby and whether that would wreck other dependences, I searched the Internet and found this [Issue](https://github.com/sparklemotion/nokogiri/issues/1961) on the Nokogiri GitHub. So, then I tried [this](https://github.com/sparklemotion/nokogiri/issues/1961#issuecomment-581851368):
+
+```
+gem inst nokogiri --pre
+Fetching nokogiri-1.11.0.rc2-x64-mingw32.gem
+Nokogiri is built with the packaged libraries: libxml2-2.9.10, libxslt-1.1.34, zlib-1.2.11, libiconv-1.15.
+Successfully installed nokogiri-1.11.0.rc2-x64-mingw32
+Parsing documentation for nokogiri-1.11.0.rc2-x64-mingw32
+Installing ri documentation for nokogiri-1.11.0.rc2-x64-mingw32
+Done installing documentation for nokogiri after 10 seconds
+1 gem installed
+```
+
+This worked. Yay!
+
+But I still couldn't install github pages, boo!
+
+```
+gem install github-pages
+ERROR:  Error installing github-pages:
+        The last version of nokogiri (>= 1.10.4, < 2.0) to support your Ruby & RubyGems was 1.10.9. Try installing it with `gem install nokogiri -v 1.10.9` and then running the current command again
+        nokogiri requires Ruby version >= 2.3, < 2.7.dev. The current ruby version is 2.7.0.0.
+```
+
+So then I just tried `bundle install` and that worked. Whew. But this is/was possibly because I was in my physcomp dir... which has a Gemfile, etc.?
+
+## Initial Setup
+
+Once I had Jekyll installed, I did the following.
 
 **First**, I made this repo and went to **settings** on GitHub for the repo and selected Master Branch for GitHub pages. I then tested that the website was serving on GitHub by going to https://jonfroehlich.github.io/mmtest2/ and it was. Note: I did not select a theme here.
 
@@ -165,71 +246,4 @@ PS C:\git\mmtest2>
 **Forth**, I created `_data/navigation.yml` as instructed [here](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-fresh)
 
 **Fifth**, I tried running the site by `bundle exec jekyll serve` and it appeared to work. Yay!
-
-# Jekyll Installation (Windows)
-I have tried to get Jekyll installed in Windows in the past and failed. I gave it another run the other day and it worked! Here are my notes:
-
-**First**, although this documentation is old, I started with this [Run Jekyll on Windows](https://jekyll-windows.juthilo.com/) guide. The first step states to Install Ruby via the [rubyinstaller.org](http://rubyinstaller.org/downloads/) website and then to install the Ruby Devkit; however, the most recent versions of Ruby Installer for Windows also allows you to install the Devkit. So, that's what I did.
- 
-**Second**, I then opened `Windows Powershell` and typed `gem install jekyll`:
-
-```
-gem install jekyll
-Fetching jekyll-4.1.1.gem
-Fetching mercenary-0.4.0.gem
-Successfully installed mercenary-0.4.0
-Successfully installed jekyll-4.1.1
-Parsing documentation for mercenary-0.4.0
-Installing ri documentation for mercenary-0.4.0
-Parsing documentation for jekyll-4.1.1
-Installing ri documentation for jekyll-4.1.1
-Done installing documentation for mercenary, jekyll after 16 seconds
-2 gems installed
-```
-
-**Third**, I then tried to install `github-pages` via: `gem install github-pages` but failed with:
-
-```
-ERROR:  Error installing github-pages:
-        The last version of nokogiri (>= 1.10.4, < 2.0) to support your Ruby & RubyGems was 1.10.9. Try installing it with `gem install nokogiri -v 1.10.9` and then running the current command again
-        nokogiri requires Ruby version >= 2.3, < 2.7.dev. The current ruby version is 2.7.0.0.
-```
-
-So, I tried:
-
-```
-gem install nokogiri -v 1.10.9
-ERROR:  Error installing nokogiri:
-        The last version of nokogiri (= 1.10.9) to support your Ruby & RubyGems was 1.10.9. Try installing it with `gem install nokogiri -v 1.10.9`
-        nokogiri requires Ruby version >= 2.3, < 2.7.dev. The current ruby version is 2.7.0.0.
-```
-
-But this also failed. And given that I have no idea how hard it would be to downgrade Ruby and whether that would wreck other dependences, I searched the Internet and found this [Issue](https://github.com/sparklemotion/nokogiri/issues/1961) on the Nokogiri GitHub. So, then I tried [this](https://github.com/sparklemotion/nokogiri/issues/1961#issuecomment-581851368):
-
-```
-gem inst nokogiri --pre
-Fetching nokogiri-1.11.0.rc2-x64-mingw32.gem
-Nokogiri is built with the packaged libraries: libxml2-2.9.10, libxslt-1.1.34, zlib-1.2.11, libiconv-1.15.
-Successfully installed nokogiri-1.11.0.rc2-x64-mingw32
-Parsing documentation for nokogiri-1.11.0.rc2-x64-mingw32
-Installing ri documentation for nokogiri-1.11.0.rc2-x64-mingw32
-Done installing documentation for nokogiri after 10 seconds
-1 gem installed
-```
-
-This worked. Yay!
-
-But I still couldn't install github pages, boo!
-
-```
-gem install github-pages
-ERROR:  Error installing github-pages:
-        The last version of nokogiri (>= 1.10.4, < 2.0) to support your Ruby & RubyGems was 1.10.9. Try installing it with `gem install nokogiri -v 1.10.9` and then running the current command again
-        nokogiri requires Ruby version >= 2.3, < 2.7.dev. The current ruby version is 2.7.0.0.
-```
-
-So then I just tried `bundle install` and that worked. Whew. But this is/was possibly because I was in my physcomp dir... which has a Gemfile, etc.?
-
-
-
 
