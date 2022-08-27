@@ -13,9 +13,10 @@ At UW, I direct the [Makeability Lab](http://makeabilitylab.io/), am the Associa
 I am the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults. 
 
 ## Students
-One of the great privileges of being a professor is working with students. In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/). 
+One of the great privileges of being a professor is working with students. In the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), we work with students across multiple disciplines and levels from high school to PhD. For a full list, see the [Makeability Lab's People page](https://makeabilitylab.cs.washington.edu/people/).
 
 ### Makeability Lab PhD Students
+If you're interested in working with me, please read our [Makeability Lab Handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI). I currently advise these fantastic students:
 
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
