@@ -51,6 +51,9 @@ So, instead, I followed the official [Jekyll MacOS docs](https://jekyllrb.com/do
 2. Install chruby and the latest Ruby with ruby-installPermalink
 3. Install jekyll
 
+I had to also do a fourth step in VS Code terminal
+
+4. `bundle add webrick` See: https://stackoverflow.com/a/70916831
 
 ## Windows Installation
 I have tried to get Jekyll installed in Windows in the past and failed. I gave it another run the other day and it worked! Here are my notes:
