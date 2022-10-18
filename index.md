@@ -4,6 +4,11 @@ sidebar: default
 author_profile: true
 toc: false
 ---
+
+**Join us!** The Makeability Lab is recruiting new PhD students or Postdocs interested in urban accessibility with background in data science, GIS, and/or computer vision. You will work with our vibrant, cross-disciplinary [Project Sidewalk](https://projectsidewalk.org/) team on state-of-the-art projects in Crowd+AI to map, assess, and visualize urban accessibility. <br/><br/>If interested, please begin by reading our [Makeability Lab handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI) and our recent papers in the area on the [Makeability Lab website](https://makeabilitylab.cs.washington.edu/publications/). See also our ["Future of Urban Accessibility"](https://accessiblecities.github.io/UrbanAccess2022/pdfs/Froehlich_FutureOfUrbanAccessibility_ASSETS2022WorkshopProposal.pdf) short paper at ASSETS'22 and the [accompanying workshop website](https://accessiblecities.github.io/UrbanAccess2022/). Then, email me at [jonf@cs.uw.edu](jonf@cs.uw.edu) with "Prospective PhD Student (or Postdoc) in UrbanAccess" in the subject. Include your CV and statement of interest.
+<br/><br/>The Allen School PhD application deadline is **Dec 15th** ([apply here](https://www.cs.washington.edu/academics/phd/admissions)).
+{: .notice--info}
+
 Hi 👋,
 
 I'm Jon, an Associate Professor in Human-Computer Interaction at UW's [Allen School of Computer Science and Engineering](http://cs.washington.edu/) where I work with an extraordinary set of [students and collaborators](https://makeabilitylab.cs.washington.edu/people/) on problems related to accessibility, urban informatics, environmental sustainability, and STE(A)M education.
