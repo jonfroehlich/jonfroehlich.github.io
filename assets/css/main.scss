@@ -47,7 +47,20 @@ html {
   }
 }
 
-$custom_icon_path: "/assets/images/";
+$custom_icon_path: "/assets/images";
+
+.makelab-logo{
+  min-width: 16px;
+  min-height: 19px;
+  // background: url(#{$custom_icon_path}/Logo_MakeabilityLab.png) no-repeat left bottom;
+  background: url(#{$custom_icon_path}/MakeabilityLab-Logo-v3-OriginalColors-Cropped.svg);
+  background-position: -1px 3px;
+  background-repeat: no-repeat;
+  background-size: 19px 19px; //https://css-tricks.com/using-svg/
+  display: inline-block;
+}
+
+
 
 /*** Custom link icons ***/
 // See: https://github.com/mmistakes/minimal-mistakes/issues/1529
