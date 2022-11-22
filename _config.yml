@@ -22,6 +22,12 @@ github_username: jonfroehlich
 minimal_mistakes_skin: default
 search: false
 
+# Social media and social sharing
+twitter:
+  username: "jonfroehlich" # See: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username
+
+og_image: /assets/images/Logo_MakeabilityLab.png # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#open-graph-default-image
+
 # https://mmistakes.github.io/minimal-mistakes/docs/navigation/#breadcrumbs-beta
 breadcrumbs: true  # disabled by default
 
