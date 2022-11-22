@@ -28,6 +28,12 @@ twitter:
 
 og_image: /assets/images/Logo_MakeabilityLab.png # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#open-graph-default-image
 
+social:
+  links:
+    - https://twitter.com/jonfroehlich
+    - https://www.linkedin.com/in/jonfroehlich
+    - https://hci.social/web/@jonfroehlich
+
 # https://mmistakes.github.io/minimal-mistakes/docs/navigation/#breadcrumbs-beta
 breadcrumbs: true  # disabled by default
 
