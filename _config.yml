@@ -26,7 +26,7 @@ search: false
 twitter:
   username: "jonfroehlich" # See: https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-twitter-username
 
-og_image: /assets/images/Logo_MakeabilityLab.png # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#open-graph-default-image
+og_image: /assets/images/MakeabilityLab-Logo-v3-OriginalColors_1200x628.png # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#open-graph-default-image
 
 social:
   links:
