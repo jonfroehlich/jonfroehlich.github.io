@@ -8,6 +8,8 @@ title: Teaching
 
 I've had the unique pleasure of teaching a variety of courses from Data Visualization and Introduction to HCI to Ubiquitous Computing and Prototyping Studio. I particularly enjoy technical HCI courses and ‘maker’ courses that combine craft, computation, and embodied interaction with topics ranging from electronic prototyping and 3D fabrication to introductory signal processing and machine learning.
 
+But generally, I just love teaching! 😊
+
 | **Course**  | **Quarter(s)**   |
 |-----------------------------|---|
 | HCID521 Prototyping Studio  | Wi'23, [Wi'22](https://docs.google.com/document/d/1jpi9pV4E2AYM7E_B222-9zHt9UON5E8x8Z8k7h4fBUY/), [Wi'21](https://canvas.uw.edu/courses/1446053/assignments/syllabus), [Wi'20](https://docs.google.com/document/d/1qv8rnwA0tXmV7WJnaALM8NNPkIsRk-F1qEh45G0CCMw/), [Wi'19](https://canvas.uw.edu/courses/1256448), [Wi'18](https://canvas.uw.edu/courses/1128377) |
