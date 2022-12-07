@@ -23,7 +23,7 @@ One of the great privileges of being a professor is working with students. In th
 ### Makeability Lab PhD Students
 If you're interested in working with me, please read our [Makeability Lab Handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI). I currently advise these fantastic students:
 
-* [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
+* [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support tools and indoor accessibility
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
 * [Chu Li](https://www.chu-li.me/), starts Fall'22!
 * [Jaewook Lee](https://jaewook-lee.com/), re-imagining augmented reality for all
