@@ -26,7 +26,7 @@ If you're interested in working with me, please read our [Makeability Lab Handbo
 * [Xia Su](https://makeabilitylab.cs.washington.edu/member/xiasu/), creativity support and design tools
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), prototyping indoor and outdoor navigation techniques
 * [Chu Li](https://www.chu-li.me/), starts Fall'22!
-* [Jaewook Lee](https://jaewook-lee.com/), starts Fall'22!
+* [Jaewook Lee](https://jaewook-lee.com/), re-imagining augmented reality for all
 
 I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin.com/in/steven-m-goodman/) and [Emma McDonnell](https://www.linkedin.com/in/ejmcdonnell/) on sound recognition and captioning tools to support people who are deaf or hard of hearing with Co-PI [Professor Leah Findlater](https://www.hcde.washington.edu/findlater) ([NSF #1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false))
 
