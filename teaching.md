@@ -6,9 +6,21 @@ toc: false
 title: Teaching
 ---
 
+<!-- Minimal mistakes cheat sheet:
+https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#myid1 -->
+
+<video width="100%" autoplay loop muted playsinline style="margin:0px">
+  <source src="https://makeabilitylab.github.io/physcomp/communication/assets/videos/ServoPotWithSerialInOLED-HandWaver_TrimmedAndOptimized.mp4" type="video/mp4" />
+</video>
+
+**Video**: I love teaching prototyping/making courses that combine craft and computation. For example, learn how to build an interactive servo motor that follows your hand using real-time computer vision [here](https://makeabilitylab.github.io/physcomp/communication/handpose-serial.html).  
+{: style="font-size:0.7em;"}
+
 I've had the unique pleasure of teaching a variety of courses from Data Visualization and Introduction to HCI to Ubiquitous Computing and Prototyping Studio. I particularly enjoy technical HCI courses and ‘maker’ courses that combine craft, computation, and embodied interaction with topics ranging from electronic prototyping and 3D fabrication to introductory signal processing and machine learning.
 
 But generally, I just love teaching! 😊
+
+## Courses
 
 | **Course**  | **Quarter(s)**   |
 |-----------------------------|---|
@@ -21,3 +33,13 @@ But generally, I just love teaching! 😊
 | CMSC434 Intro to HCI | Au'16, Sp'16, Au'14, Au'13, Sp'13, Sp'12 |
 | CMSC838F Tangible Interactive Computing | Sp'15, Sp'14, Au'12 |
 | CMSC838L HCI Grad Seminar | Au'15, Sp'12 |
+
+## Interactive Physical Computing Textbook
+
+To support remote education during the pandemic and to broaden the impact of my teaching, I made a [physical computing learning website](https://makeabilitylab.github.io/physcomp/)—an interactive textbook of sorts—that now has hundreds of thousands of views from 183+ countries.
+
+I would be honored if you considered using the website (or any of its materials) in your own teaching. Please let me know if you do. These materials have been used in courses at CMU, Stanford, Wayne State Univ., Univ. of Victoria, Sussex, Dundee, and beyond. As one example, I received the following note from a professor:
+
+> Your [website on Intro to Electronics](https://makeabilitylab.github.io/physcomp/) is just fantastic. My students and I are grateful to your intuitive explanations, animations, and step by step problems solving approaches. Your site is exactly what I was looking for. 
+
+My remote teaching practices were also featured by the UW College of Engineering ([story here](https://www.engr.washington.edu/news/article/2022-03-28/learning-outcomes)).
