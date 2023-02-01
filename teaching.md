@@ -36,6 +36,13 @@ But generally, I just love teaching! 😊
 
 ## Interactive Physical Computing Textbook
 
+<video playsinline style="margin:0px" controls>
+  <source src="assets/videos/CPX_BananaPiano_OptimizedTrimmed.mp4" type="video/mp4" />
+</video>
+
+**Video**: A video snippet from my interactive physical computing textbook introducing capacitive sensing and how to create a custom input controller using bananas and a piano. You can follow the [lesson here](https://makeabilitylab.github.io/physcomp/cpx/#lesson-5-capacitive-sensing) and build your own Banana Piano!  
+{: style="font-size:0.7em;"}
+
 To support remote education during the pandemic and to broaden the impact of my teaching, I made a [physical computing learning website](https://makeabilitylab.github.io/physcomp/)—an interactive textbook of sorts—that now has hundreds of thousands of views from 183+ countries.
 
 I would be honored if you considered using the website in your own teaching. Please let me know if you do. These materials have been used in courses at CMU, Stanford, Wayne State Univ., Univ. of Victoria, Sussex, Dundee, and beyond. As one example, I received the following note from a professor:
