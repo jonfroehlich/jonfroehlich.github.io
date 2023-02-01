@@ -36,8 +36,8 @@ But generally, I just love teaching! 😊
 
 ## Interactive Physical Computing Textbook
 
-<video playsinline style="margin:0px" controls>
-  <source src="assets/videos/CPX_BananaPiano_OptimizedTrimmed.mp4" type="video/mp4" />
+<video width="100%" playsinline style="margin:0px" controls>
+  <source src="../assets/videos/CPX_BananaPiano_OptimizedTrimmed.mp4" type="video/mp4" />
 </video>
 
 **Video**: A video snippet from my interactive physical computing textbook introducing capacitive sensing and how to create a custom input controller using bananas and a piano. You can follow the [lesson here](https://makeabilitylab.github.io/physcomp/cpx/#lesson-5-capacitive-sensing) and build your own Banana Piano!  
