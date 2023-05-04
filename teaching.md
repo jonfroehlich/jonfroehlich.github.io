@@ -25,7 +25,7 @@ But generally, I just love teaching! 😊
 | **Course**  | **Quarter(s)**   |
 |-----------------------------|---|
 | HCID521 Prototyping Studio  | [Wi'23](https://docs.google.com/document/d/1ym9COs8JZzHafNnkTwzhScVlpd7vDr99ZBsLULkjLs4/), [Wi'22](https://docs.google.com/document/d/1jpi9pV4E2AYM7E_B222-9zHt9UON5E8x8Z8k7h4fBUY/), [Wi'21](https://canvas.uw.edu/courses/1446053/assignments/syllabus), [Wi'20](https://docs.google.com/document/d/1qv8rnwA0tXmV7WJnaALM8NNPkIsRk-F1qEh45G0CCMw/), [Wi'19](https://canvas.uw.edu/courses/1256448), [Wi'18](https://canvas.uw.edu/courses/1128377) |
-| CSE412 Data Visualization | Sp'23, [Sp'22](https://docs.google.com/document/d/1qWT7kq1ian2l3WRQ-JNdrvI1IwZ9HocDV2_ZKVz2US4/edit#heading=h.5q6g0flf43al) |
+| CSE412 Data Visualization | [Sp'23](https://docs.google.com/document/d/1IkLt99Wy4FsyGyVT3oPsPH9Eg-HjiyVsOyviqQSnQYc/edit), [Sp'22](https://docs.google.com/document/d/1qWT7kq1ian2l3WRQ-JNdrvI1IwZ9HocDV2_ZKVz2US4/edit#heading=h.5q6g0flf43al) |
 | HCID521 Immersion Studio  | [Au'21](https://docs.google.com/spreadsheets/d/1kYNB45NysEORlZc-Soc3PK0c95AUIWy61PDIR90kCMg/edit#gid=0) |
 | CSE490 Physical Computing | [Sp'21](https://makeabilitylab.github.io/physcomp/) ([Canvas](https://canvas.uw.edu/courses/1467338)) |
 | CSE590 Ubiquitous Computing | [Sp'20](https://canvas.uw.edu/courses/1387742), [Sp'18](https://canvas.uw.edu/courses/1199409) |
