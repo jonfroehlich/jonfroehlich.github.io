@@ -45,7 +45,7 @@ But generally, I just love teaching! 😊
 
 To support remote education during the pandemic and to broaden the impact of my teaching, I made a [physical computing learning website](https://makeabilitylab.github.io/physcomp/)—an interactive textbook of sorts—that now has hundreds of thousands of views from 183+ countries.
 
-I would be honored if you considered using the website in your own teaching. Please let me know if you do. These materials have been used in courses at CMU, Stanford, Wayne State Univ., Univ. of Victoria, [UDIT](https://girardin.medium.com/teaching-emerging-technologies-to-ux-designers-c2d329ff83cd), Sussex, Dundee, and beyond. As one example, I received the following note from a professor:
+Feel free to use these materials in your own teaching (I would be honored). These materials have been used in courses at CMU, Stanford, Wayne State Univ., Univ. of Victoria, [UDIT](https://girardin.medium.com/teaching-emerging-technologies-to-ux-designers-c2d329ff83cd), Sussex, Dundee, and beyond. As one example, I received the following note from a professor:
 
 > Your [website on Intro to Electronics](https://makeabilitylab.github.io/physcomp/) is just fantastic. My students and I are grateful to your intuitive explanations, animations, and step by step problems solving approaches. Your site is exactly what I was looking for. 
 
