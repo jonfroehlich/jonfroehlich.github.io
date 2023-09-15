@@ -40,15 +40,15 @@ I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin
 #### Makeability Lab PhD Alumni
 
 **[Manaswi Saha](https://homes.cs.washington.edu/~manaswi/)**, University of Washington, 2022<br/>
-Dissertation: *Designing Interactive Data-driven Tools for Understanding Urban Accessibility at Scale*<br/>
+Dissertation: [*Designing Interactive Data-driven Tools for Understanding Urban Accessibility at Scale*](https://makeabilitylab.cs.washington.edu/media/publications/Saha_DesigningInteractiveDataDrivenToolsForUnderstandingUrbanAccessibilityAtScale_UWCSPHDDISSERTATION2022.pdf)<br/>
 Now at Accenture Labs
 
 **[Liang He](https://www.lianghe.me/)**, University of Washington, 2022<br/>
-Dissertation: *Fabricating Kinetic Objects with 3D Printable Spring-Based Mechanisms for Interactivity*.<br/>
+Dissertation: [*Fabricating Kinetic Objects with 3D Printable Spring-Based Mechanisms for Interactivity*](https://makeabilitylab.cs.washington.edu/media/publications/He_FabricatingKineticObjectsWith3DPrintableSpringBasedMechanismsForInteractivity_UWCSPHDDISSERTATION2022.pdf).<br/>
 Now an Assistant Professor at Purdue University.
 
 **[Dhruv Jain](https://homes.cs.washington.edu/~djain/)**, University of Washington, 2022<br/>
-Dissertation: *Sound Sensing and Feedback Techniques for Deaf and Hard and Hearing People*.
+Dissertation: [*Sound Sensing and Feedback Techniques for Deaf and Hard and Hearing People*](https://makeabilitylab.cs.washington.edu/media/publications/Jain_SoundSensingAndFeedbackTechniquesForDeafAndHardOfHearingPeople_UWCSPHDDISSERTATION2022.pdf).
 Co-advised with [Professor Leah Findlater](https://www.hcde.washington.edu/findlater).<br/> Now an Assistant Professor at the University of Michigan.
 
 **[Seokbin Kang](http://www.livehighkang.com/)**, University of Maryland, 2020<br/>
