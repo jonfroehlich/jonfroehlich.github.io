@@ -6,7 +6,7 @@ toc: false
 title: About Me
 ---
 
-I'm an Associate Professor in the [UW Allen School](http://cs.washington.edu/), a Sloan Fellow, and NSF CAREER Awardee. My research is in Human-Computer Interaction (HCI) with a focus on high-value social domains such as accessibility, environmental sustainability, and STE(A)M education.
+I'm a Professor in the [UW Allen School of Computer Science](http://cs.washington.edu/), a Sloan Fellow, and NSF CAREER Awardee. My research is in Human-Computer Interaction (HCI) with a focus on high-value social domains such as accessibility, environmental sustainability, and STE(A)M education.
 
 ### Graduate studies
 
