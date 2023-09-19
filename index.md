@@ -13,7 +13,7 @@ If interested, please begin by reading our [Makeability Lab handbook](https://do
 
 Hi 👋,
 
-I'm Jon, an Associate Professor in Human-Computer Interaction at UW's [Allen School of Computer Science and Engineering](http://cs.washington.edu/) where I work with an extraordinary set of [students and collaborators](https://makeabilitylab.cs.washington.edu/people/) on problems related to accessibility, urban informatics, environmental sustainability, and STE(A)M education.
+I'm Jon, a Professor in Human-Computer Interaction at UW's [Allen School of Computer Science and Engineering](http://cs.washington.edu/) where I work with an extraordinary set of [students and collaborators](https://makeabilitylab.cs.washington.edu/people/) on problems related to accessibility, urban informatics, environmental sustainability, and STE(A)M education.
 
 At UW, I direct the [Makeability Lab](http://makeabilitylab.io/) and am the Associate Director of [CREATE](https://create.uw.edu/) (Center for Research and Education on Accessible Technology and Experiences), Associate Director of Tech Transfer and Outreach of [PacTrans](http://depts.washington.edu/pactrans/), Faculty Chair of the [MHCI+D program](https://mhcid.washington.edu/), and co-founder of [Project Sidewalk](http://projectsidewalk.org/), a web tool aimed at transforming how sidewalks are mapped, analyzed, and visualized using crowdsourcing+AI. I also serve as a Core Faculty Member in the [Interdisciplinary PhD Program in Urban Design and Planning](https://grad.uw.edu/about-the-graduate-school/interdisciplinary-programs/urban-design-and-planning/) within the UW Graduate School.
 
