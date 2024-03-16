@@ -22,16 +22,23 @@ But generally, I just love teaching! 😊
 
 ## Courses
 
+### Undergraduate Courses
+
 | **Course**  | **Quarter(s)**   |
 |-----------------------------|---|
-| CSE493V Prototyping Interactive Systems with AI | [Sp'24](https://docs.google.com/document/d/1ajWOH-5bTcGxtOvXXgQzT10HZ1ZJGkWKz-W96x9Ly2g/edit)
-| HCID521 Prototyping Studio  | [Wi'24](https://docs.google.com/document/d/1pZ_TDdVbfQ_2sFPijOIOmAT5OrnVNDNLZOTUy7eqOUA/edit#heading=h.1znbzgxl7p67), [Wi'23](https://docs.google.com/document/d/1ym9COs8JZzHafNnkTwzhScVlpd7vDr99ZBsLULkjLs4/), [Wi'22](https://docs.google.com/document/d/1jpi9pV4E2AYM7E_B222-9zHt9UON5E8x8Z8k7h4fBUY/), [Wi'21](https://canvas.uw.edu/courses/1446053/assignments/syllabus), [Wi'20](https://docs.google.com/document/d/1qv8rnwA0tXmV7WJnaALM8NNPkIsRk-F1qEh45G0CCMw/), [Wi'19](https://canvas.uw.edu/courses/1256448), [Wi'18](https://canvas.uw.edu/courses/1128377) |
-| CSE412 Data Visualization | [Sp'23](https://docs.google.com/document/d/1IkLt99Wy4FsyGyVT3oPsPH9Eg-HjiyVsOyviqQSnQYc/edit), [Sp'22](https://docs.google.com/document/d/1qWT7kq1ian2l3WRQ-JNdrvI1IwZ9HocDV2_ZKVz2US4/edit#heading=h.5q6g0flf43al) |
-| HCID521 Immersion Studio  | [Au'21](https://docs.google.com/spreadsheets/d/1kYNB45NysEORlZc-Soc3PK0c95AUIWy61PDIR90kCMg/edit#gid=0) |
+| CSE493F Prototyping Interactive Systems with AI | [Sp'24](https://docs.google.com/document/d/1ajWOH-5bTcGxtOvXXgQzT10HZ1ZJGkWKz-W96x9Ly2g/edit)
 | CSE490 Physical Computing | [Sp'21](https://makeabilitylab.github.io/physcomp/) ([Canvas](https://canvas.uw.edu/courses/1467338)) |
+| CSE412 Data Visualization | [Sp'23](https://docs.google.com/document/d/1IkLt99Wy4FsyGyVT3oPsPH9Eg-HjiyVsOyviqQSnQYc/edit), [Sp'22](https://docs.google.com/document/d/1qWT7kq1ian2l3WRQ-JNdrvI1IwZ9HocDV2_ZKVz2US4/edit#heading=h.5q6g0flf43al) |
+| CMSC434 Intro to HCI | Au'16, Sp'16, Au'14, Au'13, Sp'13, Sp'12 |
+
+### Graduate Courses
+
+| **Course**  | **Quarter(s)**   |
+|-----------------------------|---|
+| HCID521 Prototyping Studio  | [Wi'24](https://docs.google.com/document/d/1pZ_TDdVbfQ_2sFPijOIOmAT5OrnVNDNLZOTUy7eqOUA/edit#heading=h.1znbzgxl7p67), [Wi'23](https://docs.google.com/document/d/1ym9COs8JZzHafNnkTwzhScVlpd7vDr99ZBsLULkjLs4/), [Wi'22](https://docs.google.com/document/d/1jpi9pV4E2AYM7E_B222-9zHt9UON5E8x8Z8k7h4fBUY/), [Wi'21](https://canvas.uw.edu/courses/1446053/assignments/syllabus), [Wi'20](https://docs.google.com/document/d/1qv8rnwA0tXmV7WJnaALM8NNPkIsRk-F1qEh45G0CCMw/), [Wi'19](https://canvas.uw.edu/courses/1256448), [Wi'18](https://canvas.uw.edu/courses/1128377) |
+| HCID521 Immersion Studio  | [Au'21](https://docs.google.com/spreadsheets/d/1kYNB45NysEORlZc-Soc3PK0c95AUIWy61PDIR90kCMg/edit#gid=0) |
 | CSE590 Ubiquitous Computing | [Sp'20](https://canvas.uw.edu/courses/1387742), [Sp'18](https://canvas.uw.edu/courses/1199409) |
 | CSE599 Prototyping Interactive Systems | [Au'19](https://makeabilitylab.github.io/physcomp/), [Sp'19](https://makeabilitylab.github.io/physcomp/) |
-| CMSC434 Intro to HCI | Au'16, Sp'16, Au'14, Au'13, Sp'13, Sp'12 |
 | CMSC838F Tangible Interactive Computing | Sp'15, Sp'14, Au'12 |
 | CMSC838L HCI Grad Seminar | Au'15, Sp'12 |
 
@@ -46,7 +53,7 @@ But generally, I just love teaching! 😊
 
 To support remote education during the pandemic and to broaden the impact of my teaching, I made a [physical computing learning website](https://makeabilitylab.github.io/physcomp/)—an interactive textbook of sorts—that now has over 500k views from 209 countries.
 
-<!-- Counts: 173,345 from GA4; as of Feb 2024, has 332,422 views from GA4 -->
+<!-- Counts: 173,345 from the original Google Analytics; as of Feb 2024, has 332,422 views from GA4 -->
 
 Feel free to use these materials in your own teaching (I would be honored). These materials have been used in courses at CMU, Stanford, Wayne State Univ., Univ. of Victoria, [UDIT](https://girardin.medium.com/teaching-emerging-technologies-to-ux-designers-c2d329ff83cd), Sussex, Dundee, and beyond. As one example, I received the following note from a professor:
 
