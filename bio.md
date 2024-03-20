@@ -26,14 +26,19 @@ Throughout my career, I have been fortunate to learn from and collaborate with t
 
 Please see our lab's [publication page](https://makeabilitylab.cs.washington.edu/publications/) and/or my [Google Scholar](https://scholar.google.com/citations?user=nExKrpsAAAAJ&hl=en) page for more details.
 
-## Short Bio
+## Bios
 
-Feel free to use either of the short biographies below or intermix/condense them to fit your needs.
+Feel free to directly use the biographies below or intermix/condense them to fit your needs.
 
-### Short Bio 1
+### Short'ish Bio 1
 
-Jon E. Froehlich is a Professor in Computer Science at the University of Washington (UW) and co-founder of [Project Sidewalk](http://projectsidewalk.org). His research in Human-Computer Interaction explores urban informatics, accessibility, and other high-value social domains. At UW, Jon is Director of the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), Associate Director of the [Center for Research and Education on Accessible Technology and Experience](https://create.uw.edu/), and Faculty Chair of the [Masters in HCI+Design program](https://mhcid.washington.edu/). His research has been recognized with 16 Best Paper and Honorable Mention awards, a Sloan Fellowship, the UW Distinguished Dissertation Award, and multiple Google Faculty Research Awards. Jon was the General Chair of ASSETS’22, the premier academic conference in the design and evaluation of technology for people with disabilities. In 2021, he was selected for the UW College of Engineering Outstanding Faculty Award and, in 2022, the PacTrans Outstanding Researcher Award. Jon is also the author of an [interactive textbook for Physical Computing](https://makeabilitylab.github.io/physcomp/), which has received over 100k views from 183+ countries. The book introduces microcontrollers, sensors and actuators, basic signal processing and machine learning, and more through project-based learning. From 2012-2017, Jon was an Assistant Professor in CS at the University of Maryland.
+Jon E. Froehlich has dedicated his career to the application of computer science to high-impact societal domains, including environmental sustainability, human mobility, and accessibility. He has been recognized with the UW College of Engineering Outstanding Faculty Award, the PacTrans Outstanding Researcher Award, a Sloan Fellowship, the UW Distinguished Dissertation Award, and multiple Google Faculty Research Awards. At UW, Jon directs the [Makeability Lab](https://makeabilitylab.cs.washington.edu//) and is co-founder of [Project Sidewalk](http://projectsidewalk.org), an open-source platform dedicated to mapping and assessing every sidewalk in the world using Human+AI techniques.
 
-### Short Bio 2
+### Short'ish Bio 2
 
 Jon E. Froehlich is a Professor in the UW Allen School of Computer Science, a Sloan Fellow, NSF CAREER Awardee, and co-founder of [Project Sidewalk](http://projectsidewalk.org). His research is in Human-Computer Interaction (HCI) with a focus on high-value social domains such as accessibility, environmental sustainability, and STE(A)M education. At UW, he directs the [Makeability Lab](https://makeabilitylab.cs.washington.edu//), works with an extraordinary set of [students and collaborators](https://makeabilitylab.cs.washington.edu/people), and [teaches CS courses](https://makeabilitylab.github.io/physcomp/) that explore the materiality of computing and the ever-changing relationships between humans, bits, and atoms.
+
+### Longer Bio
+
+Jon E. Froehlich is a Professor in Computer Science at the University of Washington (UW) and co-founder of [Project Sidewalk](http://projectsidewalk.org). His research in Human-Computer Interaction explores urban informatics, accessibility, and other high-value social domains. At UW, Jon is Director of the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), Associate Director of the [Center for Research and Education on Accessible Technology and Experience](https://create.uw.edu/), and Faculty Chair of the [Masters in HCI+Design program](https://mhcid.washington.edu/). His research has been recognized with 16 Best Paper and Honorable Mention awards, a Sloan Fellowship, the UW Distinguished Dissertation Award, and multiple Google Faculty Research Awards. Jon was the General Chair of ASSETS’22, the premier academic conference in the design and evaluation of technology for people with disabilities. In 2021, he was selected for the UW College of Engineering Outstanding Faculty Award and, in 2022, the PacTrans Outstanding Researcher Award. Jon is also the author of an [interactive textbook for Physical Computing](https://makeabilitylab.github.io/physcomp/), which has received over 500k views from 200+ countries. The book introduces microcontrollers, sensors and actuators, basic signal processing and machine learning, and more through project-based learning. From 2012-2017, Jon was an Assistant Professor in CS at the University of Maryland.
+
