@@ -29,9 +29,9 @@ One of the great privileges of being a professor is working with students. In th
 
 If you're interested in working with me, please read our [Makeability Lab Handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI). I currently advise these fantastic students:
 
-* [Arnavi Chheda-Kothary](https://www.linkedin.com/in/arnavichheda/), 1st-year PhD student (co-advised with [Professor Jacob O. Wobbrock](http://faculty.washington.edu/wobbrock/))
+* [Arnavi Chheda-Kothary](https://www.linkedin.com/in/arnavichheda/), AI-powered accessibility for mixed-ability families (co-advised with [Professor Jacob O. Wobbrock](http://faculty.washington.edu/wobbrock/))
 * [Chu Li](https://www.chu-li.me/), advancing urban science through interactive technology
-* [Daniel Campos Zamora](https://www.danielcamposzamora.com/), urban fabrication
+* [Daniel Campos Zamora](https://www.danielcamposzamora.com/), urban computing and pervasive fabrication
 * [Jaewook Lee](https://jaewook-lee.com/), re-imagining augmented reality for all
 * [Xia Su](https://xiasu.github.io/), creativity support tools and indoor accessibility
 
