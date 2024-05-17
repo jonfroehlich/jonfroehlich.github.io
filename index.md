@@ -33,7 +33,7 @@ If you're interested in working with me, please read our [Makeability Lab Handbo
 * [Chu Li](https://www.chu-li.me/), advancing urban science through interactive technology
 * [Daniel Campos Zamora](https://www.danielcamposzamora.com/), urban computing and pervasive fabrication
 * [Jaewook Lee](https://jaewook-lee.com/), re-imagining augmented reality for all
-* [Jared Hwang](https://jared-hwang.github.io/), starting autumn'24!
+* [Jared Hwang](https://jared-hwang.github.io/), AI-powered urban informatics
 * [Xia Su](https://xiasu.github.io/), creativity support tools and indoor accessibility
 
 I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin.com/in/steven-m-goodman/) and [Emma McDonnell](https://www.linkedin.com/in/ejmcdonnell/) on sound recognition and captioning tools to support people who are deaf or hard of hearing with Co-PI [Professor Leah Findlater](https://www.hcde.washington.edu/findlater) ([NSF #1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false))
