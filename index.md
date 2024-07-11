@@ -5,6 +5,9 @@ author_profile: true
 toc: false
 ---
 
+I am on sabbatical from 2024-2025 🎓. To focus my energy on new research initiatives 🚀, I will not be taking any service requests during this time.
+{: .notice--info style="font-size:medium !important"}
+
 <!-- **Join us!** I am recruiting new PhD students or Postdocs interested in transforming urban accessibility with computational methods. We are specifically looking for students with background and research experience in applied machine learning and GIS/urban science. Example projects from my lab in this area include Project Sidewalk, RASSR, Sidewalk Equity, and BusStopCV. <br/><br/>
 If interested, please begin by reading our [Makeability Lab handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI) and our recent papers in the area on the [Makeability Lab website](https://makeabilitylab.cs.washington.edu/publications/). See also our ["Future of Urban Accessibility"](https://accessiblecities.github.io/UrbanAccess2022/pdfs/Froehlich_FutureOfUrbanAccessibility_ASSETS2022WorkshopProposal.pdf) short paper at ASSETS'22 and the [accompanying workshop website](https://accessiblecities.github.io/UrbanAccess2022/). Then, email me at [jonf@cs.uw.edu](jonf@cs.uw.edu) with "Prospective PhD Student (or Postdoc) in UrbanAccess" in the subject. Include your CV and a brief statement about how your prior work and future interests intersect with my lab.
 {: .notice--info style="font-size:medium !important"} -->
@@ -15,11 +18,18 @@ Hi 👋,
 
 I'm Jon, a Professor in Human-Computer Interaction at UW's [Allen School of Computer Science and Engineering](http://cs.washington.edu/) where I work with an extraordinary set of [students and collaborators](https://makeabilitylab.cs.washington.edu/people/) on problems related to accessibility, urban informatics, environmental sustainability, and STE(A)M education.
 
-At UW, I direct the [Makeability Lab](http://makeabilitylab.io/) and am the Associate Director of [CREATE](https://create.uw.edu/) (Center for Research and Education on Accessible Technology and Experiences), Associate Director of Tech Transfer and Outreach of [PacTrans](http://depts.washington.edu/pactrans/), Faculty Chair of the [MHCI+D program](https://mhcid.washington.edu/), and co-founder of [Project Sidewalk](http://projectsidewalk.org/), a web tool aimed at transforming how sidewalks are mapped, analyzed, and visualized using crowdsourcing+AI. I also serve as a Core Faculty Member in the [Interdisciplinary PhD Program in Urban Design and Planning](https://grad.uw.edu/about-the-graduate-school/interdisciplinary-programs/urban-design-and-planning/) within the UW Graduate School.
+At UW, I direct the [Makeability Lab](http://makeabilitylab.io/) and am the Associate Director of [CREATE](https://create.uw.edu/) (Center for Research and Education on Accessible Technology and Experiences), Associate Director of Tech Transfer and Outreach of [PacTrans](http://depts.washington.edu/pactrans/), and co-founder of [Project Sidewalk](http://projectsidewalk.org/), a web tool aimed at transforming how sidewalks are mapped, analyzed, and visualized using crowdsourcing+AI. I also serve as a Core Faculty Member in the [Interdisciplinary PhD Program in Urban Design and Planning](https://grad.uw.edu/about-the-graduate-school/interdisciplinary-programs/urban-design-and-planning/) within the UW Graduate School.
+
+In 2022, I was the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults, where I spearheaded the first ever hybrid conference in ASSETS history and developed the new workshop track—both initiatives continue today. From 2021-2024, I was the Faculty Chair of UW's cross-disciplinary [MHCI+D program](https://mhcid.washington.edu/).
+
+I was selected as a Sloan Fellow in 2016, the UW College of Engineering Outstanding Faculty in 2021, and the PacTrans Outstanding Researcher in 2022. Our lab has accrued over 15 Best Paper and Honorable Mention Awards at leading scientific venues in Human-Computer Interaction, including at: CHI, ASSETS, and IMWUT.
 
 <!-- a co-founding (student) member of [DUB](http://dub.washington.edu), a large, cross-disciplinary organization of academic and industry professionals interested in HCI and Design research,
 
-I am the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults.  -->
+I am the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults.  
+
+Faculty Chair of the [MHCI+D program](https://mhcid.washington.edu/)
+-->
 
 ## Students
 
