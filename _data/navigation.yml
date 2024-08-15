@@ -4,10 +4,10 @@ main:
     url: bio
   - title: "Teaching"
     url: teaching
-  - title: "Publications"
-    url: https://makeabilitylab.cs.washington.edu/publications/
   - title: "Projects"
     url: https://makeabilitylab.cs.washington.edu/projects
+  - title: "Publications"
+    url: https://makeabilitylab.cs.washington.edu/publications/
   # - title: "Making"
   #   url: https://makeabilitylab.github.io/physcomp/
   - title: "Makeability Lab"
