@@ -22,7 +22,7 @@ At UW, I direct the [Makeability Lab](http://makeabilitylab.io/) and am the Asso
 
 In 2022, I was the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults, where I spearheaded the first ever hybrid conference in ASSETS history and developed the new workshop track—both initiatives continue today. From 2021-2024, I was the Faculty Chair of UW's cross-disciplinary [MHCI+D program](https://mhcid.washington.edu/).
 
-I was selected as a Sloan Fellow in 2016, the UW College of Engineering Outstanding Faculty in 2021, and the PacTrans Outstanding Researcher in 2022. Our lab has accrued 21 Best Paper and Honorable Mention Awards at leading scientific venues in Human-Computer Interaction, including at: [CHI](https://dl.acm.org/conference/chi), [ASSETS](https://www.sigaccess.org/assets/), [UIST](https://uist.acm.org/), and [IMWUT](https://dl.acm.org/journal/imwut).
+I was selected as a Sloan Fellow in 2016, the UW College of Engineering Outstanding Faculty in 2021, and the PacTrans Outstanding Researcher in 2022. Our lab has accrued 23 Best Paper and Honorable Mention Awards at leading scientific venues in Human-Computer Interaction, including at: [CHI](https://dl.acm.org/conference/chi), [ASSETS](https://www.sigaccess.org/assets/), [UIST](https://uist.acm.org/), and [IMWUT](https://dl.acm.org/journal/imwut).
 
 <!-- a co-founding (student) member of [DUB](http://dub.washington.edu), a large, cross-disciplinary organization of academic and industry professionals interested in HCI and Design research,
 
