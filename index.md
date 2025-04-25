@@ -46,8 +46,6 @@ If you're interested in working with me, please read our [Makeability Lab Handbo
 * [Jared Hwang](https://jared-hwang.github.io/), AI-powered urban informatics
 * [Xia Su](https://xiasu.github.io/), creativity support tools and indoor accessibility
 
-I also work closely with HCDE PhD students [Steven Goodman](https://www.linkedin.com/in/steven-m-goodman/) and [Emma McDonnell](https://www.linkedin.com/in/ejmcdonnell/) on sound recognition and captioning tools to support people who are deaf or hard of hearing with Co-PI [Professor Leah Findlater](https://www.hcde.washington.edu/findlater) ([NSF #1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false))
-
 #### Makeability Lab PhD Alumni
 
 **[Manaswi Saha](https://homes.cs.washington.edu/~manaswi/)**, University of Washington, 2022<br/>
@@ -75,15 +73,17 @@ Dissertation: [*HandSight: A Touch-Based Wearable System to Increase Information
 **[Kotaro Hara](https://kotarohara.com/)**, University of Maryland, 2016<br/> 
 Dissertation: [Scalable Methods to Collect and Visualize Sidewalk Accessibility Data for People with Mobility Impairments](https://makeabilitylab.cs.washington.edu/media/publications/Hara_ScalableMethodsToCollectAndVisualizeSidewalkAccessibilityDataForPeopleWithMobilityImpairments_2016.pdf).<br/> Postdoc at CMU. Now an Assistant Professor at Singapore Management University.
 
+I also worked closely with HCDE PhD students [Steven Goodman](https://www.linkedin.com/in/steven-m-goodman/) and [Emma McDonnell](https://www.linkedin.com/in/ejmcdonnell/) on sound recognition and captioning tools to support people who are deaf or hard of hearing with Co-PI [Professor Leah Findlater](https://www.hcde.washington.edu/findlater) ([NSF #1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false))
+
 ## Teaching
 
 In the Allen School, I teach CS courses that explore the materiality of computing and the ever-changing relationships between humans, bits, and atoms such as CSE490 _Physical Computing_, CSE590 _Ubiquitous Computing_, and CSE599 _Prototyping Interactive Systems_. I also co-teach HCID521 _Prototyping Studio_ in the [Master of Human-Computer Interaction Design (MHCI+D)](https://mhcid.washington.edu/) program. Topics across these courses include prototyping with electronics, microcontrollers, code, 3D printers, and lo-fi craft material. See our [teaching website](https://makeabilitylab.github.io/physcomp/) for more details.
 
 ## Acknowledgments and funding
 
-The [Makeability Lab](https://makeabilitylab.cs.washington.edu) is grateful for funding support from the NSF, the Department of Defense's Clinical and Rehabilitative Medicine Research Program, the [PacTrans Consortium](http://depts.washington.edu/pactrans/),  [UW CREATE](https://create.uw.edu/), [UW's Global Innovation Fund](https://www.washington.edu/globalaffairs/gif/), and [the UW Reality Lab](https://realitylab.uw.edu/) as well as corporate sponsors, including: Google Faculty Research Awards, a 3M Faculty Award, and research funding from Facebook, Nokia, and Microsoft. We are also grateful for our PhD student funding awards, including two [Google PhD Fellowships](https://research.google/outreach/phd-fellowship/), an [IBM Fellowship](https://research.ibm.com/university/awards/fellowships.html), a [Google-CMD-IT LEAP Alliance Fellowship](https://cmd-it.org/news-recent/how-cmd-it-is-teaming-up-with-google-research-to-diversify-computing/), an [Allen School First-Year Fellowship](https://www.cs.washington.edu/academics/phd/handbook/fellowships), an [NSF GRFP](https://www.nsfgrfp.org/), a [GEM Fellowship](https://www.gemfellowship.org/gem-fellowship-program/), and a [Microsoft Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/?OCID=msr_program_dissgrant_tw#!grant-recipients).
+The [Makeability Lab](https://makeabilitylab.cs.washington.edu) is grateful for funding support from the NSF, the Department of Defense's Clinical and Rehabilitative Medicine Research Program, the [PacTrans Consortium](http://depts.washington.edu/pactrans/),  [UW CREATE](https://create.uw.edu/), [UW's Global Innovation Fund](https://www.washington.edu/globalaffairs/gif/), and [the UW Reality Lab](https://realitylab.uw.edu/) as well as corporate sponsors, including: Google Faculty Research Awards, a 3M Faculty Award, and research funding from Adobe, Apple, Nokia, Microsoft, and Meta. We are also grateful for our PhD student funding awards, including two [Google PhD Fellowships](https://research.google/outreach/phd-fellowship/), an [IBM Fellowship](https://research.ibm.com/university/awards/fellowships.html), a [Google-CMD-IT LEAP Alliance Fellowship](https://cmd-it.org/news-recent/how-cmd-it-is-teaming-up-with-google-research-to-diversify-computing/), an [Allen School First-Year Fellowship](https://www.cs.washington.edu/academics/phd/handbook/fellowships), an [NSF GRFP](https://www.nsfgrfp.org/), a [GEM Fellowship](https://www.gemfellowship.org/gem-fellowship-program/), and a [Microsoft Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/?OCID=msr_program_dissgrant_tw#!grant-recipients).
 
-We are honored and humbled that our work has been recognized with sixteen Best Paper and Honorable Mention Awards, including five Best Papers at CHI, two Best Papers at ASSETS, and a 10-Year Impact Award at UbiComp.
+We are honored and humbled that our work has been recognized with 23 Best Paper and Honorable Mention Awards, including five Best Papers at CHI, three Best Papers at ASSETS, one Best Paper Inclusion Award at UIST, and a 10-Year Impact Award at UbiComp.
 
 ## Learn more
 
