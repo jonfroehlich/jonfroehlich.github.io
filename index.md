@@ -54,7 +54,7 @@ Now at Accenture Labs
 
 **[Liang He](https://www.lianghe.me/)**, University of Washington, 2022<br/>
 Dissertation: [*Fabricating Kinetic Objects with 3D Printable Spring-Based Mechanisms for Interactivity*](https://makeabilitylab.cs.washington.edu/media/publications/He_FabricatingKineticObjectsWith3DPrintableSpringBasedMechanismsForInteractivity_UWCSPHDDISSERTATION2022.pdf).<br/>
-Now an Assistant Professor at Purdue University.
+Now an Assistant Professor at University of Texas, Dallas.
 
 **[Dhruv Jain](https://homes.cs.washington.edu/~djain/)**, University of Washington, 2022<br/>
 Dissertation: [*Sound Sensing and Feedback Techniques for Deaf and Hard and Hearing People*](https://makeabilitylab.cs.washington.edu/media/publications/Jain_SoundSensingAndFeedbackTechniquesForDeafAndHardOfHearingPeople_UWCSPHDDISSERTATION2022.pdf).
