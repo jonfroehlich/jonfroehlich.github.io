@@ -23,6 +23,21 @@ $right-sidebar-width-wide: 350px !default;    // Default is 400px (for very larg
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Use CSS variables for consistent padding and width calculation
+.page {
+  @include breakpoint($large) {
+    // Keep sidebar space (150px) but reduce right padding
+    width: calc(100% - 150px) !important; // Keep original sidebar width
+    padding-inline-end: 60px !important; // Reduce from 150px to 30px
+  }
+  
+  @include breakpoint($x-large) {
+    // Keep sidebar space (250px) but reduce right padding
+    width: calc(100% - 250px) !important; // Keep original sidebar width  
+    padding-inline-end: 60px !important; // Reduce from 250px to 40px
+  }
+}
+
 // Add margin to main content to create space from sidebar
 .page__inner-wrap {
   @include breakpoint($large) {
