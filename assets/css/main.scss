@@ -101,15 +101,43 @@ html {
 
 $custom_icon_path: "/assets/images";
 
-.makelab-logo{
-  min-width: 16px;
-  min-height: 19px;
-  // background: url(#{$custom_icon_path}/Logo_MakeabilityLab.png) no-repeat left bottom;
+// Fix for uneven sidebar icon spacing
+.author__urls.social-icons {
+  li {
+    // Ensure consistent spacing between all list items
+    margin-bottom: 0.25em;
+    
+    a {
+      display: flex;
+      align-items: center;
+      line-height: 1.5;
+      
+      i {
+        // Make all icons consistent width to match FontAwesome fa-fw
+        width: 1.28571429em;
+        text-align: center;
+        margin-right: 0.5em;
+        flex-shrink: 0; // Prevent icon from shrinking
+      }
+    }
+  }
+}
+
+// Update your existing .makelab-logo class to work better with the layout
+.makelab-logo {
+  // Remove min-width and min-height that were causing issues
+  width: 1.28571429em !important; // Match fa-fw width
+  height: 1em;
+  
+  // Fix the background positioning and sizing
   background: url(#{$custom_icon_path}/MakeabilityLab-Logo-v3-OriginalColors-Cropped.svg);
-  background-position: -1px 5px;
+  background-position: center center; // Center the icon instead of -1px 5px
   background-repeat: no-repeat;
-  background-size: 19px 19px; //https://css-tricks.com/using-svg/
+  background-size: 16px 16px; // Slightly smaller to match other icons better
   display: inline-block;
+  
+  // Ensure it aligns with text baseline like FontAwesome icons
+  vertical-align: baseline;
 }
 
 /* Hide the "Follow" button on small screens */
