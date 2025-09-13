@@ -11,9 +11,28 @@ $serif      : "PT Serif", Georgia, Times, serif;
 $sans-serif : "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 // $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
+// Override the $large breakpoint to change when sidebar moves to top
+$large: 800px !default;
+
+// Override sidebar width variables to reduce right padding
+$right-sidebar-width-narrow: 150px !default;  // Default is 200px
+$right-sidebar-width: 250px !default;         // Default is 300px (for larger screens)
+$right-sidebar-width-wide: 350px !default;    // Default is 400px (for very large screens)
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Add margin to main content to create space from sidebar
+.page__inner-wrap {
+  @include breakpoint($large) {
+    margin-left: 20px !important; // This matches what works in dev tools
+  }
+  
+  @include breakpoint($x-large) {
+    margin-left: 30px !important; // More space on larger screens
+  }
+}
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
 html {
@@ -40,10 +59,36 @@ html {
     }
 }
 
+// .author__avatar {
+
+//   img {
+//     max-width: 150px;
+//   }
+// }
+
+/**
+ * Enhanced avatar styles with larger mobile display
+ * Replaces the existing .author__avatar section in main.scss
+ */
 .author__avatar {
+  @media (max-width: 800px) {
+    width: 180px !important;
+    height: 180px !important;
+  }
 
   img {
-    max-width: 150px;
+    // Mobile-first approach: larger by default
+    max-width: 160px;
+    
+    // Scale down for medium screens and up
+    @include breakpoint($medium) {
+      max-width: 170px;
+    }
+    
+    // Standard size for large screens
+    @include breakpoint($large) {
+      max-width: 150px;
+    }
   }
 }
 
@@ -67,7 +112,12 @@ $custom_icon_path: "/assets/images";
   display: inline-block;
 }
 
-
+/* Hide the "Follow" button on small screens */
+@media (max-width: 800px) {
+  .author__urls-wrapper .btn {
+    display: none;
+  }
+}
 
 /*** Custom link icons ***/
 // See: https://github.com/mmistakes/minimal-mistakes/issues/1529
