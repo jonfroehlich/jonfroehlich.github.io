@@ -5,8 +5,8 @@ author_profile: true
 toc: false
 ---
 
-I am on sabbatical from 2024-2025 🎓. To focus my energy on new research initiatives 🚀, I will not be taking any service requests during this time.
-{: .notice--info style="font-size:medium !important"}
+<!-- I am on sabbatical from 2024-2025 🎓. To focus my energy on new research initiatives 🚀, I will not be taking any service requests during this time.
+{: .notice--info style="font-size:medium !important"} -->
 
 <!-- **Join us!** I am recruiting new PhD students or Postdocs interested in transforming urban accessibility with computational methods. We are specifically looking for students with background and research experience in applied machine learning and GIS/urban science. Example projects from my lab in this area include Project Sidewalk, RASSR, Sidewalk Equity, and BusStopCV. <br/><br/>
 If interested, please begin by reading our [Makeability Lab handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI) and our recent papers in the area on the [Makeability Lab website](https://makeabilitylab.cs.washington.edu/publications/). See also our ["Future of Urban Accessibility"](https://accessiblecities.github.io/UrbanAccess2022/pdfs/Froehlich_FutureOfUrbanAccessibility_ASSETS2022WorkshopProposal.pdf) short paper at ASSETS'22 and the [accompanying workshop website](https://accessiblecities.github.io/UrbanAccess2022/). Then, email me at [jonf@cs.uw.edu](jonf@cs.uw.edu) with "Prospective PhD Student (or Postdoc) in UrbanAccess" in the subject. Include your CV and a brief statement about how your prior work and future interests intersect with my lab.
