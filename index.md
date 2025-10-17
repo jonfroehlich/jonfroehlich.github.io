@@ -5,10 +5,39 @@ author_profile: true
 toc: false
 ---
 
+<div class="notice--info" style="font-size:medium !important; background-color: #f8f8f8;">
+  <p>
+    <strong>Join us!</strong> I am recruiting new PhD students in <strong>Human-AI research</strong> in <strong>Urban Computing</strong>, <strong>Augmented Reality (AR)</strong>, and/or <strong>Creativity Support Tools</strong>. The application deadline is Dec 15 (see <a href="https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/">Allen School PhD Admissions</a>). Example projects in core areas:
+  </p>
+  <ul>
+    <li>
+      <strong>Urban Computing / GeoAI</strong>: <a href="https://makeabilitylab.cs.washington.edu/media/publications/Froehlich_DoesTheCafeEntranceLookAccessibleWhereIsTheDoorTowardsGeospatialAiAgentsForVisualInquiries_ICCVWorkshop2025.pdf">Geo-Visual AI Agents</a>, <a href="https://makeabilitylab.cs.washington.edu/project/sidewalk/">Project Sidewalk</a>, <a href="https://makeabilitylab.cs.washington.edu/project/flymethrough/">FlyMeThrough</a>, <a href="https://makeabilitylab.cs.washington.edu/project/nightlight/">NightLight</a>, <a href="https://makeabilitylab.cs.washington.edu/project/mapoutloud/">GeoQA^3</a>, <a href="https://makeabilitylab.cs.washington.edu/project/accessparkcv/">AccessParkCV</a>
+    </li>
+    <li>
+      <strong>Augmented Reality:</strong> <a href="https://makeabilitylab.cs.washington.edu/project/gazepointar/">GazePointAR</a>, <a href="https://makeabilitylab.cs.washington.edu/project/sonocraftar/">SonoCraftAR</a>, <a href="https://makeabilitylab.cs.washington.edu/media/publications/Lee_TowardsAiPoweredArForEnhancingSportsPlayabilityForPeopleWithLowVisionAnExplorationOfArsports_IDEATExR2024.pdf">ARSports</a>, <a href="https://makeabilitylab.cs.washington.edu/project/SonifyAR/">SonifyAR</a>, <a href="https://makeabilitylab.cs.washington.edu/project/rassar/">RASSAR</a>
+    </li>
+    <li>
+      <strong>Creativity Support Tools:</strong> <a href="https://makeabilitylab.cs.washington.edu/media/publications/Lee_ImaginatearAiAssistedInSituAuthoringInAugmentedReality_UIST2025.pdf">ImaginateAR</a>, <a href="https://makeabilitylab.cs.washington.edu/media/publications/Su_Authoring25DDesignsWithDepthEstimation_CHI2025.pdf">DepthScape</a>, <a href="https://makeabilitylab.cs.washington.edu/project/artinsight/">ArtInsight</a>, <a href="https://makeabilitylab.cs.washington.edu/project/mobiprint/">MobiPrint</a>
+    </li>
+  </ul>
+  <p>
+    If interested, please begin by reading our <a href="https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI">Makeability Lab handbook</a> and our recent papers in the area on the <a href="https://makeabilitylab.cs.washington.edu/publications/">Makeability Lab website</a>. Then, email me at <a href="mailto:jonf@cs.uw.edu">jonf@cs.uw.edu</a> with "Prospective PhD Student in Human-AI Research" in the subject. Include your CV and a brief statement about how your prior work and future interests intersect with my lab.
+  </p>
+</div>
+
+<!-- **Join us!** I am recruiting new PhD students in Human-AI interested in urban computing and/or AR. Example projects in these areas include:
+{: .notice--info style="font-size:medium !important"}
+* [Urban Computing / GeoAI:] [Geo-Visual AI Agents](https://makeabilitylab.cs.washington.edu/media/publications/Froehlich_DoesTheCafeEntranceLookAccessibleWhereIsTheDoorTowardsGeospatialAiAgentsForVisualInquiries_ICCVWorkshop2025.pdf), [Project Sidewalk](https://makeabilitylab.cs.washington.edu/project/sidewalk/), [FlyMeThrough](https://makeabilitylab.cs.washington.edu/project/flymethrough/), [NightLight](https://makeabilitylab.cs.washington.edu/project/nightlight/), [GeoQA^3](https://makeabilitylab.cs.washington.edu/project/mapoutloud/), and [AccessParkCV](https://makeabilitylab.cs.washington.edu/project/accessparkcv/)
+
+* [Augmented Reality:] [GazePointAR](https://makeabilitylab.cs.washington.edu/project/gazepointar/), [SonoCraftAR](https://makeabilitylab.cs.washington.edu/project/sonocraftar/), [ARSports](https://makeabilitylab.cs.washington.edu/media/publications/Lee_TowardsAiPoweredArForEnhancingSportsPlayabilityForPeopleWithLowVisionAnExplorationOfArsports_IDEATExR2024.pdf), [SonifyAR](https://makeabilitylab.cs.washington.edu/project/SonifyAR/)
+
+If interested, please begin by reading our [Makeability Lab handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI) and our recent papers in the area on the [Makeability Lab website](https://makeabilitylab.cs.washington.edu/publications/). Then, email me at [jonf@cs.uw.edu](jonf@cs.uw.edu) with "Prospective PhD Student in Human-AI Research" in the subject. Include your CV and a brief statement about how your prior work and future interests intersect with my lab. -->
+
+
 <!-- I am on sabbatical from 2024-2025 🎓. To focus my energy on new research initiatives 🚀, I will not be taking any service requests during this time.
 {: .notice--info style="font-size:medium !important"} -->
 
-<!-- **Join us!** I am recruiting new PhD students or Postdocs interested in transforming urban accessibility with computational methods. We are specifically looking for students with background and research experience in applied machine learning and GIS/urban science. Example projects from my lab in this area include Project Sidewalk, RASSR, Sidewalk Equity, and BusStopCV. <br/><br/>
+<!-- **Join us!** I am recruiting new PhD students interested in transforming urban accessibility with computational methods. We are specifically looking for students with background and research experience in applied machine learning and GIS/urban science. Example projects from my lab in this area include Project Sidewalk, RASSR, Sidewalk Equity, and BusStopCV. <br/><br/>
 If interested, please begin by reading our [Makeability Lab handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI) and our recent papers in the area on the [Makeability Lab website](https://makeabilitylab.cs.washington.edu/publications/). See also our ["Future of Urban Accessibility"](https://accessiblecities.github.io/UrbanAccess2022/pdfs/Froehlich_FutureOfUrbanAccessibility_ASSETS2022WorkshopProposal.pdf) short paper at ASSETS'22 and the [accompanying workshop website](https://accessiblecities.github.io/UrbanAccess2022/). Then, email me at [jonf@cs.uw.edu](jonf@cs.uw.edu) with "Prospective PhD Student (or Postdoc) in UrbanAccess" in the subject. Include your CV and a brief statement about how your prior work and future interests intersect with my lab.
 {: .notice--info style="font-size:medium !important"} -->
 
