@@ -7,7 +7,7 @@ toc: false
 
 <div class="notice--info" style="font-size:medium !important; background-color: #f8f8f8;">
   <p>
-    <strong>Join us!</strong> I am recruiting new PhD students in <strong>Human-AI research</strong> in <strong>Urban Computing</strong>, <strong>Augmented Reality (AR)</strong>, and/or <strong>Creativity Support Tools</strong>. The application deadline is Dec 15 (see <a href="https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/">Allen School PhD Admissions</a>). Example projects in core areas:
+    <strong>Join us!</strong> I am recruiting new PhD students in <strong>Human-AI research</strong> in <strong>Urban Computing</strong>, <strong>Augmented Reality (AR)</strong>, and/or <strong>Creativity Support Tools</strong>. The application deadline is Dec 15, 2025 (see <a href="https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/">Allen School PhD Admissions</a>). Example projects in core areas:
   </p>
   <ul>
     <li>
