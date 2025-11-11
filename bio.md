@@ -42,5 +42,90 @@ Jon E. Froehlich is a Professor in the UW Allen School of Computer Science, a Sl
 
 ### Longer Bio
 
-Jon E. Froehlich is a Professor in Computer Science at the University of Washington (UW) and co-founder of [Project Sidewalk](http://projectsidewalk.org). His research in Human-Computer Interaction explores urban informatics, accessibility, and other high-value social domains. At UW, Jon is Director of the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), Associate Director of the [Center for Research and Education on Accessible Technology and Experience](https://create.uw.edu/), and Faculty Chair of the [Masters in HCI+Design program](https://mhcid.washington.edu/). His research has been recognized with 21 Best Paper and Honorable Mention awards, a Sloan Fellowship, the UW Distinguished Dissertation Award, and multiple Google Faculty Research Awards. Jon was the General Chair of ASSETS’22, the premier academic conference in the design and evaluation of technology for people with disabilities. In 2021, he was selected for the UW College of Engineering Outstanding Faculty Award and, in 2022, the PacTrans Outstanding Researcher Award. Jon is also the author of an [interactive textbook for Physical Computing](https://makeabilitylab.github.io/physcomp/), which has received over 500k views from 200+ countries. The book introduces microcontrollers, sensors and actuators, basic signal processing and machine learning, and more through project-based learning. From 2012-2017, Jon was an Assistant Professor in CS at the University of Maryland.
+Jon E. Froehlich is a Professor in Computer Science at the University of Washington (UW) and co-founder of [Project Sidewalk](http://projectsidewalk.org). His research in Human-Computer Interaction explores urban informatics, accessibility, and other high-value social domains. At UW, Jon is Director of the [Makeability Lab](https://makeabilitylab.cs.washington.edu/), Associate Director of the [Center for Research and Education on Accessible Technology and Experience](https://create.uw.edu/), and Faculty Chair of the [Masters in HCI+Design program](https://mhcid.washington.edu/). His research has been recognized with 23 Best Paper and Honorable Mention awards, a Sloan Fellowship, the UW Distinguished Dissertation Award, and multiple Google Faculty Research Awards. Jon was the General Chair of ASSETS’22, the premier academic conference in the design and evaluation of technology for people with disabilities. In 2021, he was selected for the UW College of Engineering Outstanding Faculty Award and, in 2022, the PacTrans Outstanding Researcher Award. Jon is also the author of an [interactive textbook for Physical Computing](https://makeabilitylab.github.io/physcomp/), which has received over 500k views from 200+ countries. The book introduces microcontrollers, sensors and actuators, basic signal processing and machine learning, and more through project-based learning. From 2012-2017, Jon was an Assistant Professor in CS at the University of Maryland.
 
+<section class="headshot-gallery" id="headshots">
+  <h2>Headshots</h2>
+  
+  <div class="gallery">
+    <!-- Image Set 1 -->
+    <div class="gallery-set">
+      <div class="gallery-item">
+        <a href="/assets/images/JonFroehlich_0252_1333x1333.jpg" target="_blank">
+          <img src="/assets/images/JonFroehlich_0252_1333x1333.jpg" alt="Jon Froehlich headshot 1 - square">
+        </a>
+      </div>
+      <div class="gallery-item">
+        <a href="/assets/images/JonFroehlich_0252_2000x1333.jpg" target="_blank">
+          <img src="/assets/images/JonFroehlich_0252_2000x1333.jpg" alt="Jon Froehlich headshot 1 - landscape">
+        </a>
+      </div>
+    </div>
+    
+    <!-- Image Set 2 -->
+    <div class="gallery-set">
+      <div class="gallery-item">
+        <a href="/assets/images/JonFroehlich_0260_1421x1333.jpg" target="_blank">
+          <img src="/assets/images/JonFroehlich_0260_1421x1333.jpg" alt="Jon Froehlich headshot 2 - square">
+        </a>
+      </div>
+      <div class="gallery-item">
+        <a href="/assets/images/JonFroehlich_0260_2000x1333.jpg" target="_blank">
+          <img src="/assets/images/JonFroehlich_0260_2000x1333.jpg" alt="Jon Froehlich headshot 2 - landscape">
+        </a>
+      </div>
+    </div>
+    
+    <!-- Image Set 3 -->
+    <div class="gallery-set">
+      <div class="gallery-item">
+        <a href="/assets/images/JonFroehlich_0264_1333x1333.jpg" target="_blank">
+          <img src="/assets/images/JonFroehlich_0264_1333x1333.jpg" alt="Jon Froehlich headshot 3 - square">
+        </a>
+      </div>
+      <div class="gallery-item">
+        <a href="/assets/images/JonFroehlich_0264_2000x1333.jpg" target="_blank">
+          <img src="/assets/images/JonFroehlich_0264_2000x1333.jpg" alt="Jon Froehlich headshot 3 - landscape">
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .headshot-gallery {
+    margin: 2rem 0;
+  }
+
+  .gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 1rem;
+  }
+
+  .gallery-set {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .gallery-item {
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .gallery-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  }
+
+  .gallery-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+  }
+</style>
