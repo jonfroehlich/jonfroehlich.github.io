@@ -46,9 +46,18 @@ Jon E. Froehlich is a Professor in Computer Science at the University of Washing
 
 <section class="headshot-gallery" id="headshots">
   <h2>Headshots</h2>
-  
+  Please feel free to use one of the following headshots (either landscape or square). Click on the photo to see and download the full size image.
   <div class="gallery">
     <!-- Image Set 1 -->
+    <div class="gallery-set">
+      <div>
+        <strong>Square</strong>
+      </div>
+      <div>
+        <strong>Landscape</strong>
+      </div>
+    </div>
+
     <div class="gallery-set">
       <div class="gallery-item">
         <a href="/assets/images/JonFroehlich_0252_1333x1333.jpg" target="_blank">
