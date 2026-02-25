@@ -5,7 +5,7 @@ author_profile: true
 toc: false
 ---
 
-<div class="notice--info" style="font-size:medium !important; background-color: #f8f8f8;">
+<!-- <div class="notice--info" style="font-size:medium !important; background-color: #f8f8f8;">
   <p>
     <strong>Join us!</strong> I am recruiting new PhD students in <strong>Human-AI research</strong> in <strong>Urban Computing</strong>, <strong>Augmented Reality (AR)</strong>, and/or <strong>Creativity Support Tools</strong>. The application deadline is Dec 15, 2025 (see <a href="https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/">Allen School PhD Admissions</a>). Example projects in core areas:
   </p>
@@ -23,7 +23,7 @@ toc: false
   <p>
     If interested, please begin by reading our <a href="https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI">Makeability Lab handbook</a> and our recent papers in the area on the <a href="https://makeabilitylab.cs.washington.edu/publications/">Makeability Lab website</a>. Then, email me at <a href="mailto:jonf@cs.uw.edu">jonf@cs.uw.edu</a> with "Prospective PhD Student in Human-AI Research" in the subject. Include your CV and a brief statement about how your prior work and future interests intersect with my lab.
   </p>
-</div>
+</div> -->
 
 <!-- **Join us!** I am recruiting new PhD students in Human-AI interested in urban computing and/or AR. Example projects in these areas include:
 {: .notice--info style="font-size:medium !important"}
@@ -51,7 +51,7 @@ At UW, I direct the [Makeability Lab](http://makeabilitylab.io/) and am the Asso
 
 In 2022, I was the General Chair for [ASSETS'22](https://assets22.sigaccess.org/), the premier ACM conference for research on the design, evaluation, use, and education related to computing for people with disabilities and older adults, where I spearheaded the first ever hybrid conference in ASSETS history and developed the new workshop track—both initiatives continue today. From 2021-2024, I was the Faculty Chair of UW's cross-disciplinary [MHCI+D program](https://mhcid.washington.edu/).
 
-I was selected as a Sloan Fellow in 2016, the UW College of Engineering Outstanding Faculty in 2021, and the PacTrans Outstanding Researcher in 2022. Our lab has accrued 23 Best Paper and Honorable Mention Awards at leading scientific venues in Human-Computer Interaction, including at: [CHI](https://dl.acm.org/conference/chi), [ASSETS](https://www.sigaccess.org/assets/), [UIST](https://uist.acm.org/), and [IMWUT](https://dl.acm.org/journal/imwut).
+I was selected as a Sloan Fellow in 2016, the UW College of Engineering Outstanding Faculty in 2021, the PacTrans Outstanding Researcher in 2022, and for the [SIGCHI Societal Impact Award in 2026](https://medium.com/sigchi/2026-acm-sigchi-awards-and-special-recognitions-d942983d9228). Our lab has accrued 23 Best Paper and Honorable Mention Awards at leading scientific venues in Human-Computer Interaction, including at: [CHI](https://dl.acm.org/conference/chi), [ASSETS](https://www.sigaccess.org/assets/), [UIST](https://uist.acm.org/), and [IMWUT](https://dl.acm.org/journal/imwut).
 
 <!-- a co-founding (student) member of [DUB](http://dub.washington.edu), a large, cross-disciplinary organization of academic and industry professionals interested in HCI and Design research,
 
@@ -114,6 +114,6 @@ The [Makeability Lab](https://makeabilitylab.cs.washington.edu) is grateful for 
 
 We are honored and humbled that our work has been recognized with 23 Best Paper and Honorable Mention Awards, including five Best Papers at CHI, three Best Papers at ASSETS, one Best Paper Inclusion Award at UIST, and a 10-Year Impact Award at UbiComp.
 
-## Learn more
+<!-- ## Learn more
 
-You can learn more about our research by following the [Makeability Lab Twitter](http://twitter.com/makeabilitylab) or [my personal Twitter](https://twitter.com/jonfroehlich).
+You can learn more about our research by following the [Makeability Lab Twitter](http://twitter.com/makeabilitylab) or [my personal Twitter](https://twitter.com/jonfroehlich). -->
