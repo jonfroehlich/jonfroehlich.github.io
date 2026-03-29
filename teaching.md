@@ -27,7 +27,7 @@ But generally, I just love teaching! 😊
 | **Course**  | **Quarter(s)**   |
 |-----------------------------|---|
 | CSE493F Prototyping Interactive Systems with AI | [Sp'24](https://docs.google.com/document/d/1ajWOH-5bTcGxtOvXXgQzT10HZ1ZJGkWKz-W96x9Ly2g/edit)
-| CSE490 Physical Computing | [Sp'21](https://makeabilitylab.github.io/physcomp/) ([Canvas](https://canvas.uw.edu/courses/1467338)) |
+| CSE490 Physical Computing | [Sp'26](https://docs.google.com/document/d/19EPh71bXXwadc_oDWLmZQGznSiCG6WqiRdpVA8uSOxk/edit?tab=t.0), [Sp'21](https://makeabilitylab.github.io/physcomp/) ([Canvas](https://canvas.uw.edu/courses/1467338)) |
 | CSE412 Data Visualization | [Sp'23](https://docs.google.com/document/d/1IkLt99Wy4FsyGyVT3oPsPH9Eg-HjiyVsOyviqQSnQYc/edit), [Sp'22](https://docs.google.com/document/d/1qWT7kq1ian2l3WRQ-JNdrvI1IwZ9HocDV2_ZKVz2US4/edit#heading=h.5q6g0flf43al) |
 | CMSC434 Intro to HCI | Au'16, Sp'16, Au'14, Au'13, Sp'13, Sp'12 |
 
