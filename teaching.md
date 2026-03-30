@@ -54,7 +54,7 @@ But generally, I just love teaching! 😊
 
 To support remote education during the pandemic and to broaden the impact of my teaching, I made a [physical computing learning website](https://makeabilitylab.github.io/physcomp/)—an interactive textbook of sorts—that has 700k views from 209 countries.
 
-<!-- Counts: 173,345 from the original Google Analytics; as of Feb 2024, has 332,422 views from GA4; as of Apr 30, has 371,006 views; as of Nov 2024, has 444,225; as of Dec 2025, has 508,946; as of Feb 1, 2026, has 518,316 -->
+<!-- Counts: 173,345 from the original Google Analytics; as of Feb 2024, has 332,422 views from GA4; as of Apr 30, has 371,006 views; as of Nov 2024, has 444,225; as of Dec 2025, has 508,946; as of Feb 1, 2026, has 518,316; as of Mar 30, 2026; has 533,121 -->
 
 Feel free to use these materials in your own teaching (I would be honored). These materials have been used in courses at CMU, Stanford, UW ECE, Purdue, OCAD, Wayne State, NYU Shanghai, Univ. of Victoria, [UDIT in Madrid](https://girardin.medium.com/teaching-emerging-technologies-to-ux-designers-c2d329ff83cd), Sussex, Dundee, and beyond. As one example, I received the following note from a professor:
 
