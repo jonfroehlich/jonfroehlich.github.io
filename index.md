@@ -78,7 +78,7 @@ If you're interested in working with me, please read our [Makeability Lab Handbo
 #### Makeability Lab PhD Alumni
 
 **[Xia Su](https://xiasu.github.io/)**, University of Washington, 2026<br/>
-Dissertation: *Towards Human-AI Symbiotic Spatial Perception*<br/>
+Dissertation: [*Towards Human-AI Symbiotic Spatial Perception*](https://makeabilitylab.cs.washington.edu/media/publications/Su_TowardsHumanAiSymbioticSpatialPerception_UWCSPhDDissertation2026.pdf)<br/>
 Now at Google
 
 **[Manaswi Saha](https://homes.cs.washington.edu/~manaswi/)**, University of Washington, 2022<br/>
