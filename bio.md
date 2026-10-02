@@ -44,8 +44,8 @@ Jon E. Froehlich is a Professor in the UW Allen School of Computer Science, a Sl
 
 Jon E. Froehlich is a Professor in Computer Science at the University of Washington (UW) and co-founder of [Project Sidewalk](http://projectsidewalk.org). His research is in Human-AI with a focus on high-value social domains such as accessibility, environmental sustainability, and STE(A)M education. At UW, Jon is Director of the [Makeability Lab](https://makeabilitylab.cs.washington.edu/) and serves in leadership roles across campus, including the Associate Director of [CREATE](https://create.uw.edu/), Associate Director of [PacTrans](https://depts.washington.edu/pactrans/), and Faculty Chair Emeritus of the [MHCI+D program](https://mhcid.washington.edu/). His research has been recognized with 23 Best Paper and Honorable Mention awards, a Sloan Fellowship, the UW Distinguished Dissertation Award, and multiple Google Faculty Research Awards. Jon was the General Chair of ASSETS’22, the premier academic conference in the design and evaluation of technology for people with disabilities. He has received the UW College of Engineering Outstanding Faculty Award (2021), PacTrans Outstanding Researcher Award (2022), and ACM SIGCHI Societal Impact Award (2026). Jon is also the author of an [interactive textbook for Physical Computing](https://makeabilitylab.github.io/physcomp/), which has received over 700k views from 200+ countries. The book introduces microcontrollers, sensors and actuators, basic signal processing and machine learning, and more through project-based learning. His students have achieved top industry and faculty positions at the University of Michigan, UT Dallas, Purdue, Delaware, Singapore Management University, and Johns Hopkins’ APL.
 
-<section class="headshot-gallery" id="headshots">
-  <h2>Headshots</h2>
+<section class="headshot-gallery">
+  <h2 id="headshots">Headshots</h2>
   Please feel free to use one of the following headshots (either landscape or square). Click on the photo to see and download the full size image.
   <div class="gallery">
     <!-- Image Set 1 -->
