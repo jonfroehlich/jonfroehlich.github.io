@@ -110,7 +110,7 @@ Dissertation: [Scalable Methods to Collect and Visualize Sidewalk Accessibility 
 
 ## Teaching
 
-In the Allen School, I teach CS courses that explore the materiality of computing and the ever-changing relationships between humans, bits, and atoms such as CSE493F _Physical Computing_, CSE493F _Prototyping Interactive Systems with AI_, CSE590 _Ubiquitous Computing_, and CSE599 _Prototyping Interactive Systems_. I also co-teach HCID521 _Prototyping Studio_ in the [Master of Human-Computer Interaction Design (MHCI+D)](https://mhcid.washington.edu/) program. Topics across these courses include prototyping with electronics, microcontrollers, code, 3D printers, and lo-fi craft material. See our [teaching website](https://makeabilitylab.github.io/physcomp/) for more details.
+In the Allen School, I teach CS courses that explore the materiality of computing and the ever-changing relationships between humans, bits, and atoms such as CSE493F _Physical Computing_ and _Prototyping Interactive Systems with AI_, CSE590 _Ubiquitous Computing_, and CSE599 _Prototyping Interactive Systems_. I also co-teach HCID521 _Prototyping Studio_ in the [Master of Human-Computer Interaction Design (MHCI+D)](https://mhcid.washington.edu/) program. Topics across these courses include prototyping with electronics, microcontrollers, code, 3D printers, and lo-fi craft material. See our [teaching website](https://makeabilitylab.github.io/physcomp/) for more details.
 
 ## Acknowledgments and funding
 
